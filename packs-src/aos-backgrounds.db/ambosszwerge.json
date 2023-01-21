@@ -1,0 +1,55 @@
+{
+    "_id": "Eephaishinai8hue",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Ambosszwerge",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "con",
+                    "str"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - Dwarf, Heritage – Ambosszwerge</p>\n<hr />\n<p>Die <strong>Ambosszwerge</strong> bewohnen hauptsächlich das <a title=\"Bergkönigreich Tosch Mur\" href=\"https://de.wiki-aventurica.de/wiki/Bergk%C3%B6nigreich_Tosch_Mur\">Bergkönigreich Tosch Mur</a> im namensgebenden <a title=\"Ambossgebirge\" href=\"https://de.wiki-aventurica.de/wiki/Ambossgebirge\">Ambossgebirge</a>. Es ist zahlenmäßig eines der größten <a title=\"Zwerge\" href=\"https://de.wiki-aventurica.de/wiki/Zwerge\">Zwergenvölker</a>, seine Angehörigen leben vor allem unterirdisch und betreiben zahlreiche <a title=\"Eisenerz\" href=\"https://de.wiki-aventurica.de/wiki/Eisenerz\">Eisenerzminen</a>, das Schmieden von überall hochgeschätzten Waffen und Werkzeugen ist ihr Haupterwerb und häufig Lebensinhalt. Das Anfertigen des eigenen individuellen <a title=\"Drachenzahn (Waffe)\" href=\"https://de.wiki-aventurica.de/wiki/Drachenzahn_(Waffe)\">Drachenzahns</a> durch jeden Ambosszwerg ist Ausdruck davon. In der Geschichte der Ambosszwerge finden sich zahlreiche ruhmreiche Schlachten vor allem gegen <a title=\"Ork\" href=\"https://de.wiki-aventurica.de/wiki/Ork\">Orken</a> und <a title=\"Drache\" href=\"https://de.wiki-aventurica.de/wiki/Drache\">Drachen</a>.</p>\n<p>Durch ihren regen Kontakt mit den anderen Völkern haben die Ambosszwerge vielerorts das typische Zwergenbild geprägt, das etwa durch Geselligkeit, Biergenuss, Völlerei und Rauflust bestimmt wird. Eine Besonderheit ist ihr Brauch, sich mit einer Kohlenstaub-Fett-Paste einzureiben, was auf unterschiedliche Ursprünge zurückgeführt wird.</p>\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Konstitution</strong> oder <strong>Stärke</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Handwerkskunst und die Fertigkeit Kenntnis (Schmieden). Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Specialty Crafting (Blacksmithing)]{Handwerksspezialist (Schmiedearbeit)/Specialty Crafting (Blacksmithing)}</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Ambosszwerge\">Wiki Aventurica - Ambosszwerge</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/ZK_Ambosszwerge.html\">Zwergische Kulturen - Ambosszwerge</a></p>"
+        },
+        "items": {
+            "5nsaM": {
+                "img": "systems/pf2e/icons/features/feats/feats.webp",
+                "level": 1,
+                "name": "Handwerksspezialist (Schmiedearbeit)/Specialty Crafting (Blacksmithing)",
+                "uuid": "Compendium.pf2e.feats-srd.S8mPrjJjuObotmjZ"
+            }
+        },
+        "rules": [],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/ZK_Ambosszwerge.html"
+        },
+        "trainedLore": "Schmieden",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "cra"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "uncommon",
+            "value": [
+                "dwarf"
+            ]
+        }
+    },
+    "type": "background"
+}

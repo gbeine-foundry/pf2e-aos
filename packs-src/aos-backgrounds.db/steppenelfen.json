@@ -1,0 +1,62 @@
+{
+    "_id": "um0Yohdoo5lab7ai",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Steppenelfen",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex",
+                    "wis"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Heritage - Steppenelfen</p>\n<hr />\n<p>Die <strong>Steppenelfen</strong> sind eine nomadische <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> von etwa 500 <a class=\"mw-redirect\" title=\"Elf\" href=\"https://de.wiki-aventurica.de/wiki/Elf\">Elfen</a>, die meist den <a title=\"Auelfen\" href=\"https://de.wiki-aventurica.de/wiki/Auelfen\">Auelfen</a> zugerechnet wird. Der größte Stamm lebt in der <a title=\"Grüne Ebene\" href=\"https://de.wiki-aventurica.de/wiki/Gr%C3%BCne_Ebene\">Grünen Ebene</a>. Sie behaupten, Abkömmlinge des mythologischen Helden <a title=\"Lariel Sturm-in-den-Zweigen\" href=\"https://de.wiki-aventurica.de/wiki/Lariel_Sturm-in-den-Zweigen\">Lariel Sturm-in-den-Zweigen</a> zu sein und nennen sich selbst <em>Kinder des Windes</em> (<a title=\"Isdira\" href=\"https://de.wiki-aventurica.de/wiki/Isdira\">Isdira</a>: <em><a title=\"Vindha'a\" href=\"https://de.wiki-aventurica.de/wiki/Vindha%27a\">Vindha'a</a></em>)</p>\n<p>Die Steppenelfen gingen aus Flüchtlingen und Vertriebenen der <a class=\"mw-redirect\" title=\"Hochelf\" href=\"https://de.wiki-aventurica.de/wiki/Hochelf\">hochelfischen</a> Siedlungen und Städte (um <a title=\"2000 bis 1001 v. BF\" href=\"https://de.wiki-aventurica.de/wiki/2000_bis_1001_v._BF\"><span title=\"2000 v. BF\">2000 v. BF</span></a>) hervor, die sich in die nördlichen Ebenen zurückzogen und als Nomaden ihren Feinden zu entgehen hofften.</p>\n<p>Innerhalb der Sippe und ihren <a class=\"mw-redirect\" title=\"Firnpony\" href=\"https://de.wiki-aventurica.de/wiki/Firnpony\">Firnponys</a> gegenüber sind sie fürsorglich und verantwortungsvoll. Mystisch sind sie mit ihren Pferden und spirituell mit den Winden verbunden.</p>\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Geschicklichkeit</strong> oder <strong>Weisheit</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in den Fertigkeiten Naturkunde und Überlebenskunst. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Experienced Tracker]{Erfahrener Spurensucher/Experienced Tracker} sowie @UUID[Compendium.pf2e.feats-srd.Elven Lore]{Elfenkunde/Elven Lore}.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Steppenelfen\">Wiki Aventurica - Steppenelfen</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Steppenelfen.html\">Elfische Kulturen - Steppenelfen</a></p>"
+        },
+        "items": {
+            "3mqdO": {
+                "img": "systems/pf2e/icons/features/feats/feats.webp",
+                "level": 1,
+                "name": "Erfahrener Spurensucher/Experienced Tracker",
+                "uuid": "Compendium.pf2e.feats-srd.urQZwmzg2kS53vd5"
+            },
+            "nWQZj": {
+                "img": "systems/pf2e/icons/features/feats/feats.webp",
+                "level": 1,
+                "name": "Elfenkunde/Elven Lore",
+                "uuid": "Compendium.pf2e.feats-srd.zki5qdM5IQcAiscM"
+            }
+        },
+        "rules": [],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kult_Steppenelfen.html"
+        },
+        "trainedLore": "",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "nat",
+                "sur"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "uncommon",
+            "value": [
+                "elf"
+            ]
+        }
+    },
+    "type": "background"
+}

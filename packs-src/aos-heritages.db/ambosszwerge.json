@@ -1,0 +1,37 @@
+{
+    "_id": "d5aV4LuuNhmDcPxJ",
+    "img": "systems/pf2e/icons/default-icons/heritage.svg",
+    "name": "Ambosszwerge",
+    "system": {
+        "ancestry": {
+            "name": "Zwerg/Dwarf",
+            "uuid": "Compendium.pf2e.ancestries.BYj5ZvlXZdpaEgA6"
+        },
+        "description": {
+            "value": "<p>Du enstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.Eephaishinai8hue]{Ambosszwerge} und musst diese als Hintergrund auswählen.</p>\n<p>Du erhältst @UUID[Compendium.pf2e.ancestryfeatures.Low-Light Vision]{Dämmersicht/Low-Light Vision}.</p>"
+        },
+        "rules": [
+            {
+                "key": "Sense",
+                "selector": "lowLightVision"
+            },
+            {
+                "add": [
+                    "dwarf"
+                ],
+                "key": "ActorTraits"
+            }
+        ],
+        "source": {
+            "value": ""
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "dwarf"
+            ]
+        }
+    },
+    "type": "heritage"
+}

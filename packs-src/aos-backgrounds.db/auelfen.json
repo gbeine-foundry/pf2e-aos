@@ -1,0 +1,63 @@
+{
+    "_id": "ayohmaK4Eeh1koob",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Auelfen",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex",
+                    "cha"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Heritage - Auelfen or Half-Elf</p>\n<hr />\n<p>Die <strong>Auelfen</strong> sind eine <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> der <a title=\"Elfen\" href=\"https://de.wiki-aventurica.de/wiki/Elfen\">Elfen</a>, die häufig an <a title=\"Fluss\" href=\"https://de.wiki-aventurica.de/wiki/Fluss\">Flüssen</a> siedeln und aus den <a title=\"Hochelfen\" href=\"https://de.wiki-aventurica.de/wiki/Hochelfen\">Hochelfen</a> hervorgegangen sind. Sie sind vor allem in den Gebieten nördlich der <a title=\"Salamandersteine\" href=\"https://de.wiki-aventurica.de/wiki/Salamandersteine\">Salamandersteine</a> bis zum <a title=\"Alavi-See\" href=\"https://de.wiki-aventurica.de/wiki/Alavi-See\">Alavi-See</a>, aber auch in <a title=\"Weiden (Region)\" href=\"https://de.wiki-aventurica.de/wiki/Weiden_(Region)\">Weiden</a>, <a title=\"Herz des Kontinents\" href=\"https://de.wiki-aventurica.de/wiki/Herz_des_Kontinents\">Garetien</a> oder <a title=\"Almada\" href=\"https://de.wiki-aventurica.de/wiki/Almada\">Almada</a> verbreitet. In früheren Zeiten siedelten sie auch in <a title=\"Albernia\" href=\"https://de.wiki-aventurica.de/wiki/Albernia\">Albernia</a> oder dem <a title=\"Bornland (Region)\" href=\"https://de.wiki-aventurica.de/wiki/Bornland_(Region)\">Bornland</a>, zogen sich dort aber im Zuge der menschlichen Besiedlung wieder zurück. Heute gibt es etwa 12 000 bis 13 000 Auelfen, was etwa zwei Drittel aller <a title=\"Aventurien\" href=\"https://de.wiki-aventurica.de/wiki/Aventurien\">aventurischen</a> <a title=\"Elfen\" href=\"https://de.wiki-aventurica.de/wiki/Elfen\">Elfen</a> entspricht.</p>\n<p>Auelfen leben meist in kleinen Pfahlbau-Dörfern entlang der Flussläufe in Sippenverbänden, haben sich aber teilweise auch in Städten wie beispielsweise <a title=\"Kvirasim\" href=\"https://de.wiki-aventurica.de/wiki/Kvirasim\">Kvirasim</a>, <a title=\"Oblarasim\" href=\"https://de.wiki-aventurica.de/wiki/Oblarasim\">Oblarasim</a>, <a title=\"Madasee (Siedlung)\" href=\"https://de.wiki-aventurica.de/wiki/Madasee_(Siedlung)\">Madasee</a> oder <a title=\"Donnerbach (Siedlung)\" href=\"https://de.wiki-aventurica.de/wiki/Donnerbach_(Siedlung)\">Donnerbach</a> niedergelassen. Sie leben von der Jagd, dem Obst- und Gemüseanbau und dem Fischen, außerdem treiben sie ein wenig Handel mit den Menschen, da sie von allen Elfenvölkern den <a class=\"mw-redirect\" title=\"Mensch\" href=\"https://de.wiki-aventurica.de/wiki/Mensch\">Menschen</a> gegenüber am aufgeschlossensten sind. Berühmt sind sie für ihre <a title=\"Bausch\" href=\"https://de.wiki-aventurica.de/wiki/Bausch\">Bausch</a>-Verarbeitung.<br />Auelfen lieben Musik, Kunst und Gedichte.</p>\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Geschicklichkeit</strong> oder <strong>Charisma</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in den Fertigkeiten Handwerkskunst und Naturkunde. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Specialty Crafting (Weaving)]{Handwerksspezialist (Webarbeit)/Specialty Crafting (Weaving)} sowie @UUID[Compendium.pf2e.feats-srd.Elven Lore]{Elfenkunde/Elven Lore}.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Auelfen\">Wiki Aventurica - Auelfen</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Auelfen.html\">Elfische Kulturen - Auelfen</a></p>"
+        },
+        "items": {
+            "1vksH": {
+                "img": "systems/pf2e/icons/features/feats/feats.webp",
+                "level": 1,
+                "name": "Handwerksspezialist (Webarbeit)/Specialty Crafting (Weaving)",
+                "uuid": "Compendium.pf2e.feats-srd.dTjzxCy9pku5gL0F"
+            },
+            "qvXoe": {
+                "img": "systems/pf2e/icons/features/feats/feats.webp",
+                "level": 1,
+                "name": "Elfenkunde/Elven Lore",
+                "uuid": "Compendium.pf2e.feats-srd.zki5qdM5IQcAiscM"
+            }
+        },
+        "rules": [],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Auelfen.html"
+        },
+        "trainedLore": "",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "cra",
+                "nat"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "uncommon",
+            "value": [
+                "elf",
+                "half-elf"
+            ]
+        }
+    },
+    "type": "background"
+}
