@@ -1,0 +1,66 @@
+{
+  "id": "pf2e-aos",
+  "title": "PF2e - Aventurien on Steroids",
+  "description": "A port of Aventurien (from TDE5) to PF2E rules.",
+  "url": "https://github.com/gbeine/pf2e-aos",
+  "authors": [
+    {
+      "name": "Gerrit Beine",
+      "url": "https://github.com/gbeine/pf2e-aos",
+      "email": "mail@gerritbeine.de",
+      "discord": "gbeine#4525",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.6.8",
+          "verified": "4.6.8"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "aos-backgrounds",
+      "label": "Aventurien on Steroids - Hintergründe",
+      "path": "packs/aos-backgrounds.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "name": "aos-heritages",
+      "label": "Aventurien on Steroids - Herkünfte",
+      "path": "packs/aos-heritages.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ],
+  "manifest": "https://github.com/gbeine/pf2e-aos/releases/latest/download/module.json"
+}
