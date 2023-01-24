@@ -1,0 +1,77 @@
+{
+    "_id": "xah8do3vae1iuLoh",
+    "img": "systems/pf2e/icons/default-icons/alternatives/ancestries/dwarf.svg",
+    "name": "Zwergische Abstammung",
+    "system": {
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Du entstammst dem Volk der Zwerge und verfügst über besondere Fähigkeiten:</p>\n<ul>\n<li>Deine zwergische Konstitution gibt dir einen Bonus in Höhe deiner halben Stufe auf deine Trefferpunkte.</li>\n<li>@UUID[Compendium.pf2e.feats-srd.Dwarven Weapon Familiarity]{Zwergische Waffenvertrautheit/Dwarven Weapon Familiarity}</li>\n</ul>\n<p>Auf Stufe 5 erlangst du zusätzlich:</p>\n<ul>\n<li>@UUID[Compendium.pf2e.feats-srd.Dwarven Weapon Cunning]{Zwergisches Waffengeschick/Dwarven Weapon Cunning}</li>\n</ul>\n<p>Auf Stufe 13 erlangst du zusätzlich:</p>\n<ul>\n<li>@UUID[Compendium.pf2e.feats-srd.Dwarven Weapon Expertise]{Zwergische Waffenexpertise/Dwarven Weapon Expertise}</li>\n</ul>"
+        },
+        "featType": {
+            "value": "ancestryfeature"
+        },
+        "level": {
+            "value": 0
+        },
+        "prerequisites": {
+            "value": []
+        },
+        "rules": [
+            {
+                "key": "FlatModifier",
+                "selector": "hp",
+                "value": "floor(@actor.level/2)"
+            },
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Dwarven Weapon Familiarity"
+            },
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            5
+                        ]
+                    }
+                ],
+                "reevaluateOnUpdate": true,
+                "uuid": "Compendium.pf2e.feats-srd.Dwarven Weapon Cunning"
+            },
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            13
+                        ]
+                    }
+                ],
+                "reevaluateOnUpdate": true,
+                "uuid": "Compendium.pf2e.feats-srd.Dwarven Weapon Expertise"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Spez_Zwerge.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "dwarf",
+                "hb_aos-ancestry"
+            ]
+        }
+    },
+    "type": "feat"
+}

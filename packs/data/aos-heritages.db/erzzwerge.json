@@ -1,0 +1,32 @@
+{
+    "_id": "K2jfEApLgl2JudPv",
+    "img": "systems/pf2e/icons/default-icons/heritage.svg",
+    "name": "Erzzwerge",
+    "system": {
+        "ancestry": {
+            "name": "Zwerg/Dwarf",
+            "uuid": "Compendium.pf2e.aos-ancestries.ox3saiTee6beeLua"
+        },
+        "description": {
+            "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.ijungai0ge0taiJo]{Erzzwerge} und musst diese als Hintergrund auswählen.</p>"
+        },
+        "rules": [
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-backgrounds.Erzzwerge"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/ZK_Erzzwerge.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "dwarf"
+            ]
+        }
+    },
+    "type": "heritage"
+}

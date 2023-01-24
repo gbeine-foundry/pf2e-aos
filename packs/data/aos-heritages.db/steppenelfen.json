@@ -1,0 +1,32 @@
+{
+    "_id": "NY9OIZpTPTqKGfE5",
+    "img": "systems/pf2e/icons/default-icons/heritage.svg",
+    "name": "Steppenelfen",
+    "system": {
+        "ancestry": {
+            "name": "Elf",
+            "uuid": "Compendium.pf2e.aos-ancestries.zoh8Ahw2ii2ohqua"
+        },
+        "description": {
+            "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.um0Yohdoo5lab7ai]{Steppenelfen} und musst diese als Hintergrund auswählen.</p>"
+        },
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-backgrounds.Steppenelfen"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kult_Steppenelfen.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "elf",
+                "hb_aos-heritage"
+            ]
+        }
+    },
+    "type": "heritage"
+}

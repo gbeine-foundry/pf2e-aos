@@ -24,15 +24,13 @@
         "description": {
             "value": "<p><strong>Prerequisite</strong> Ancestry - Dwarf, Heritage – Erzzwerge</p>\n<hr />\n<p>Die <strong>Erzzwerge</strong> stellen die älteste <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> der <a class=\"mw-redirect\" title=\"Zwerg\" href=\"https://de.wiki-aventurica.de/wiki/Zwerg\">Zwerge</a> dar. Sie leben sehr zurückgezogen in weit verzweigten, unterirdischen Höhlenstädten.</p>\n<p>In die gewissenhafte Ausübung ihres Handwerks und die feierliche <a class=\"mw-redirect\" title=\"Angrosch\" href=\"https://de.wiki-aventurica.de/wiki/Angrosch\">Angrosch</a>-Verehrung, der ihnen als \"Allmächtiger Baumeister der Welt\" gilt, investieren sie viel Fleiß und Hingabe. Die Erzzwerge gelten als Meister der Mechanik sowie der Bau- und Rechenkunst, aber auch die Zahlenmystik wird hoch geschätzt.</p>\n<p>Großer Respekt wird dem Alter und den Ahnen entgegengebracht. Für viele alltägliche Verrichtungen gibt es deshalb althergebrachte Rituale. In der Gesellschaft spielen Bruderschaften eine wichtige Rolle.</p>\n<p>Sie bewohnen unter anderem <a title=\"Xorlosch\" href=\"https://de.wiki-aventurica.de/wiki/Xorlosch\">Xorlosch</a>, die älteste Stadt der Zwerge. Ihre Städte sehen sie oft als Bastion gegen den ewigen Feind <a title=\"Pyrdacor\" href=\"https://de.wiki-aventurica.de/wiki/Pyrdacor\">Pyrdacor</a>, den sie seit Jahrtausenden fürchten.</p>\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Konstitution</strong> oder <strong>Weisheit</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Handwerkskunst und die Fertigkeit Kenntnis (Steinmetzarbeiten). Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Specialty Crafting (Stonemasonry)]{Handwerksspezialist (Steinmetzarbeit)/Specialty Crafting (Stonemasonry)}</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Erzzwerge\">Wiki Aventurica - Erzzwerge</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/ZK_Erzzwerge.html\">Zwergische Kulturen - Erzzwerge</a></p>"
         },
-        "items": {
-            "A1PTu": {
-                "img": "systems/pf2e/icons/features/feats/feats.webp",
-                "level": 1,
-                "name": "Handwerksspezialist (Steinmetzarbeit)/Specialty Crafting (Stonemasonry)",
-                "uuid": "Compendium.pf2e.feats-srd.TWkwy0uQvTGlgEFG"
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Specialty Crafting (Stonemasonry)"
             }
-        },
-        "rules": [],
+        ],
         "source": {
             "value": "https://ulisses-regelwiki.de/ZK_Erzzwerge.html"
         },
@@ -47,6 +45,7 @@
             "custom": "",
             "rarity": "uncommon",
             "value": [
+                "hb_aos-background",
                 "dwarf"
             ]
         }

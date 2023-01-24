@@ -1,0 +1,32 @@
+{
+    "_id": "fj5szRbWMcOLkkt1",
+    "img": "systems/pf2e/icons/default-icons/heritage.svg",
+    "name": "Hügelzwerge",
+    "system": {
+        "ancestry": {
+            "name": "Zwerg/Dwarf",
+            "uuid": "Compendium.pf2e.aos-ancestries.ox3saiTee6beeLua"
+        },
+        "description": {
+            "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.poes3Ahpheefaede]{Hügelzwerge} und musst diese als Hintergrund auswählen.</p>"
+        },
+        "rules": [
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-backgrounds.Hügelzwerge"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/ZK_H%C3%BCgelzwerge.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "dwarf"
+            ]
+        }
+    },
+    "type": "heritage"
+}

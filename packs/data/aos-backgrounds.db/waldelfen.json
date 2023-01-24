@@ -1,0 +1,52 @@
+{
+    "_id": "kia3UonaneeL6Dee",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Waldelfen",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex",
+                    "wis"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Heritage - Waldelfen</p>\n<hr />\n<p><strong>Waldelfen</strong> sind <a class=\"mw-redirect\" title=\"Elf\" href=\"https://de.wiki-aventurica.de/wiki/Elf\">Elfen</a>, die in den <a title=\"Salamandersteine\" href=\"https://de.wiki-aventurica.de/wiki/Salamandersteine\">Salamandersteinen</a> leben und aus den <a title=\"Lichtelf\" href=\"https://de.wiki-aventurica.de/wiki/Lichtelf\">Lichtelfen</a> hervorgegangen sind.</p>\n<p>Waldelfen erscheinen Menschen oft überheblich. Sie leben als Jäger und Sammler in der Gemeinsamkeit der Sippe im Wald, zumeist in Behausungen aus lebendigem Holz, und meiden fast jeglichen Kontakt zur Außenwelt.</p>\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Geschicklichkeit</strong> oder <strong>Weisheit</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Train Animal]{Tier ausbilden/Train Animal}.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Waldelfen\">Wiki Aventurica - Waldelfen</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Waldelfen.html\">Elfische Kulturen - Waldelfen</a></p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Train Animal"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Waldelfen.html"
+        },
+        "trainedLore": "",
+        "trainedSkills": {
+            "custom": "",
+            "value": []
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "uncommon",
+            "value": [
+                "elf"
+            ]
+        }
+    },
+    "type": "background"
+}

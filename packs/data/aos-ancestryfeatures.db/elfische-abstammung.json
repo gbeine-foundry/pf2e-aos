@@ -1,0 +1,82 @@
+{
+    "_id": "iesujee0eiShaigi",
+    "img": "systems/pf2e/icons/default-icons/alternatives/ancestries/elf.svg",
+    "name": "Elfische Abstammung",
+    "system": {
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Du entstammst dem Volk der Elfen und verfügst über besondere Fähigkeiten:</p>\n<ul>\n<li>@UUID[Compendium.pf2e.feats-srd.Elven Lore]{Elfenkunde/Elven Lore}</li>\n<li>@UUID[Compendium.pf2e.feats-srd.Elven Verve]{Elfischer Elan/Elven Verve}</li>\n<li>@UUID[Compendium.pf2e.feats-srd.Elven Weapon Familiarity]{Elfische Waffenvertrautheit/Elven Weapon Familiarity}</li>\n</ul>\n<p>Auf Stufe 5 erlangst du zusätzlich:</p>\n<ul>\n<li>@UUID[Compendium.pf2e.feats-srd.Elven Weapon Elegance]{Elfische Waffeneleganz/Elven Weapon Elegance}</li>\n</ul>\n<p>Auf Stufe 13 erlangst du zusätzlich:</p>\n<ul>\n<li>@UUID[Compendium.pf2e.feats-srd.Elven Weapon Expertise]{Elfische Waffenexpertise/Elven Weapon Expertise}</li>\n</ul>"
+        },
+        "featType": {
+            "value": "ancestryfeature"
+        },
+        "level": {
+            "value": 0
+        },
+        "prerequisites": {
+            "value": []
+        },
+        "rules": [
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Elven Verve"
+            },
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Elven Lore"
+            },
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Elven Weapon Familiarity"
+            },
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            5
+                        ]
+                    }
+                ],
+                "reevaluateOnUpdate": true,
+                "uuid": "Compendium.pf2e.feats-srd.Elven Weapon Elegance"
+            },
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            13
+                        ]
+                    }
+                ],
+                "reevaluateOnUpdate": true,
+                "uuid": "Compendium.pf2e.feats-srd.Elven Weapon Expertise"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Spez_Elfen.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "elf",
+                "hb_aos-ancestry"
+            ]
+        }
+    },
+    "type": "feat"
+}

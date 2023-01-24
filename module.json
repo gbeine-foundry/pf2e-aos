@@ -29,11 +29,120 @@
       }
     ]
   },
+  "esmodules": [
+    "esmodules/main.js"
+  ],
+  "flags" : {
+    "pf2e-aos" : {
+      "pf2e-homebrew": {
+        "creatureTraits": {
+          "aventurien": "Aventurien",
+          "aos-ancestry": "Aventurische Abstammung",
+          "aos-background": "Aventurische Hintergründe"
+        },
+        "featTraits": {
+          "aventurien": "Aventurien",
+          "aos-ancestry": "Aventurische Abstammung",
+          "aos-heritage": "Aventurische Herkunft",
+          "aos-feat": "Talent (AoS)",
+          "aos-amazone": "Amazone",
+          "aos-schwertgesellen": "Schwertgesellen"
+        },
+        "spellTraits": {
+          "aventurien": "Aventurien"
+        },
+        "equipmentTraits": {
+          "aventurien": "Aventurien"
+        },
+        "weaponTraits": {
+          "aventurien": "Aventurien"
+        },
+        "languages": {
+          "aventurien": "Aventurien"
+        },
+        "magicSchools": {
+          "aventurien": "Aventurien"
+        },
+        "weaponCategories": {
+          "aventurien": "Aventurien"
+        },
+        "weaponGroups": {
+          "aventurien": "Aventurien"
+        },
+        "baseWeapons": {
+          "aventurien": "Aventurien"
+        }
+      }
+    }
+  },
   "packs": [
+    {
+      "name": "aos-ancestries",
+      "label": "Aventurien on Steroids - Spezies",
+      "path": "packs/aos-ancestries.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "name": "aos-ancestryfeatures",
+      "label": "Aventurien on Steroids - Abstammungstalente",
+      "path": "packs/aos-ancestryfeatures.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
     {
       "name": "aos-backgrounds",
       "label": "Aventurien on Steroids - Hintergründe",
       "path": "packs/aos-backgrounds.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "name": "aos-classes",
+      "label": "Aventurien on Steroids - Klassen",
+      "path": "packs/aos-classes.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "name": "aos-classfeatures",
+      "label": "Aventurien on Steroids - Klassenmerkmale",
+      "path": "packs/aos-classfeatures.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "name": "aos-deities",
+      "label": "Aventurien on Steroids - Götter",
+      "path": "packs/aos-deities.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "name": "aos-equipment",
+      "label": "Aventurien on Steroids - Ausrüstung",
+      "path": "packs/aos-equipment.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "name": "aos-feats",
+      "label": "Aventurien on Steroids - Talente",
+      "path": "packs/aos-feats.db",
       "system": "pf2e",
       "private": false,
       "type": "Item",
@@ -57,9 +166,22 @@
       "flags": {}
     },
     {
+      "lang": "en",
+      "name": "Rules Elements (English)",
+      "path": "lang/re-en.json",
+      "flags": {}
+    },
+    {
       "lang": "de",
       "name": "Deutsch",
-      "path": "lang/de.json"
+      "path": "lang/de.json",
+      "flags": {}
+    },
+    {
+      "lang": "de",
+      "name": "Rules Elements (Deutsch)",
+      "path": "lang/re-de.json",
+      "flags": {}
     }
   ],
   "manifest": "https://github.com/gbeine/pf2e-aos/releases/latest/download/module.json"

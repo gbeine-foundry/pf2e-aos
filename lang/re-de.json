@@ -1,0 +1,26 @@
+{
+  "PF2E-AoS": {
+    "SpecificRule": {
+      "Schwertgeselle": {
+        "Lehrmeister": {
+          "Prompt": "Lehrmeisterauswahl"
+        }
+      },
+      "Amazone": {
+        "Spezialisierung": {
+          "Prompt": "Spezialisierung"
+        }
+      },
+      "Elfen": {
+        "Kultur": {
+          "Prompt": "Elfische Kultur"
+        }
+      },
+      "Zwerge": {
+        "Kultur": {
+          "Prompt": "Zwergische Kultur"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "_id": "d5aV4LuuNhmDcPxJ",
+    "img": "systems/pf2e/icons/default-icons/heritage.svg",
+    "name": "Ambosszwerge",
+    "system": {
+        "ancestry": {
+            "name": "Zwerg/Dwarf",
+            "uuid": "Compendium.pf2e.aos-ancestries.ox3saiTee6beeLua"
+        },
+        "description": {
+            "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.Eephaishinai8hue]{Ambosszwerge} und musst diese als Hintergrund auswählen.</p>"
+        },
+        "rules": [
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-backgrounds.Ambosszwerge"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/ZK_Ambosszwerge.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "dwarf"
+            ]
+        }
+    },
+    "type": "heritage"
+}

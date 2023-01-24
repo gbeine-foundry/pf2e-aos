@@ -1,0 +1,32 @@
+{
+    "_id": "8tyfIUODh9VZ0XjM",
+    "img": "systems/pf2e/icons/default-icons/heritage.svg",
+    "name": "Brillantzwerge",
+    "system": {
+        "ancestry": {
+            "name": "Zwerg/Dwarf",
+            "uuid": "Compendium.pf2e.aos-ancestries.ox3saiTee6beeLua"
+        },
+        "description": {
+            "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.vei4IemohkuiNgee]{Brillantzwerge} und musst diese als Hintergrund auswählen.</p>"
+        },
+        "rules": [
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-backgrounds.Brillantzwerge"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/ZL_Brillantzwerge.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "dwarf"
+            ]
+        }
+    },
+    "type": "heritage"
+}

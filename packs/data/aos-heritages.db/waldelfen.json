@@ -1,0 +1,32 @@
+{
+    "_id": "xooqu6EeF8Baeyah",
+    "img": "systems/pf2e/icons/default-icons/heritage.svg",
+    "name": "Waldelfen",
+    "system": {
+        "ancestry": {
+            "name": "Elf",
+            "uuid": "Compendium.pf2e.aos-ancestries.zoh8Ahw2ii2ohqua"
+        },
+        "description": {
+            "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.kia3UonaneeL6Dee]{Waldelfen} und musst diese als Hintergrund auswählen.</p>"
+        },
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-backgrounds.Waldelfen"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Waldelfen.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "elf",
+                "hb_aos-heritage"
+            ]
+        }
+    },
+    "type": "heritage"
+}

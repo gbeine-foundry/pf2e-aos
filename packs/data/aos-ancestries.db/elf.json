@@ -1,0 +1,88 @@
+{
+    "_id": "zoh8Ahw2ii2ohqua",
+    "img": "systems/pf2e/icons/default-icons/alternatives/ancestries/elf.svg",
+    "name": "Elf",
+    "system": {
+        "additionalLanguages": {
+            "count": 0,
+            "custom": "",
+            "value": [
+                "celestial",
+                "draconic",
+                "gnoll",
+                "gnomish",
+                "goblin",
+                "orcish",
+                "sylvan"
+            ]
+        },
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex"
+                ]
+            },
+            "1": {
+                "value": [
+                    "int"
+                ]
+            },
+            "2": {
+                "value": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p>Die <strong>Elfen</strong> sind eine der kulturschaffenden <a title=\"Spezies\" href=\"https://de.wiki-aventurica.de/wiki/Spezies\">Spezies</a> <a title=\"Aventurien\" href=\"https://de.wiki-aventurica.de/wiki/Aventurien\">Aventuriens</a>. Sie sind für gewöhnlich eher schlank und relativ hoch gewachsen, haben spitze Ohren und oft androgyne Gesichtszüge mit großen, leicht schräg gestellten Augen, die die unterschiedlichsten Färbungen aufweisen. Ihr Haar tragen sie meist lang und offen. Alle Elfen besitzen natürliche <a title=\"Magie\" href=\"https://de.wiki-aventurica.de/wiki/Magie\">magische</a> Begabung (<a title=\"Mandra\" href=\"https://de.wiki-aventurica.de/wiki/Mandra\">mandra</a>). Ihre Sprache wird <a title=\"Isdira\" href=\"https://de.wiki-aventurica.de/wiki/Isdira\">Isdira</a> genannt.</p>\n<p>Typische Elfen leben als Jäger und Sammler in <a title=\"Elfensippe\" href=\"https://de.wiki-aventurica.de/wiki/Elfensippe\">Sippenverbänden</a> ohne feste hierarchische Strukturen und kennen mit Ausnahme der <a class=\"mw-redirect\" title=\"Auelf\" href=\"https://de.wiki-aventurica.de/wiki/Auelf\">Auelfen</a> kein Geld, keine Scham und keinen Eigentumsbegriff. Jeder Elf besitzt ein <em><a title=\"Iama\" href=\"https://de.wiki-aventurica.de/wiki/Iama\">iama</a></em> und kennt ritualisierte <a title=\"Elfenlied\" href=\"https://de.wiki-aventurica.de/wiki/Elfenlied\">Zauberlieder</a>. Im Vergleich mit anderen Spezies sind sie sehr scharfsinnig und lassen sich häufig von ihren Gefühlen leiten. Eine weitere Besonderheit ist ihre Fähigkeit, bewusst Kontrolle über ihre Empfängnis ausüben zu können. Sehr wichtig ist Elfen die Gemeinschaft, was sich im <em><a title=\"Salasandra\" href=\"https://de.wiki-aventurica.de/wiki/Salasandra\">salasandra</a></em> ausdrückt, wohingegen Elfen, die sich zu weit von der elfischen Lebensweise entfernt haben, als <em><a title=\"Badoc\" href=\"https://de.wiki-aventurica.de/wiki/Badoc\">badoc</a></em> gelten und häufig ausgegrenzt werden. Ihr Lebensende gleicht einem Verwelken, das mit dem Erreichen ihres individuellen Lebenszweckes einsetzt, dessen Suche oft einen erheblichen Teil ihres Strebens ausmacht.</p>\n<p>Während die <a class=\"mw-redirect\" title=\"Hochelf\" href=\"https://de.wiki-aventurica.de/wiki/Hochelf\">Hochelfen</a> an Götter glaubten, haben sich die heutigen Elfenvölker vom Glauben an Götter losgesagt, da daraus nichts Gutes erwachse. Nach Ansicht der Elfen wird das Geschehen der Welt von zwei mächtigen Prinzipien beherrscht: Das schaffende Prinzip (<em><a title=\"Nurdra\" href=\"https://de.wiki-aventurica.de/wiki/Nurdra\">nurdra</a></em>), und das zerstörerische Prinzip (<em><a title=\"Zerza\" href=\"https://de.wiki-aventurica.de/wiki/Zerza\">zerza</a></em>), demnach eine Naturkraft.</p>\n<p>Ihre rechtliche Stellung im <a class=\"mw-redirect\" title=\"Mittelreich\" href=\"https://de.wiki-aventurica.de/wiki/Mittelreich\">Mittel-</a> und <a class=\"mw-redirect\" title=\"Horasreich\" href=\"https://de.wiki-aventurica.de/wiki/Horasreich\">Horasreich</a> wird im <a title=\"Tralloper Vertrag\" href=\"https://de.wiki-aventurica.de/wiki/Tralloper_Vertrag\">Tralloper Vertrag</a> geregelt.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Elfen\">Wiki Aventurica - Elfen</a></p>\n<hr />\n<p>Du entstammst einer der vier @UUID[Compendium.pf2e-aos.aos-heritages.yiuNi3nohd1aiseo]{Elfischen Kulturen} und erhältst eine @UUID[Compendium.pf2e-aos.aos-ancestryfeatures.iesujee0eiShaigi]{Elfische Abstammung}.</p>\n<p>Alle Elfen verfügen über @UUID[Compendium.pf2e.ancestryfeatures.Low-Light Vision]{Dämmersicht/Low-Light Vision}.</p>"
+        },
+        "flaws": {
+            "0": {
+                "value": [
+                    "con"
+                ]
+            }
+        },
+        "hp": 6,
+        "items": {},
+        "languages": {
+            "custom": "",
+            "value": [
+                "common",
+                "elven"
+            ]
+        },
+        "reach": 5,
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-heritages.Elfische Kultur"
+            },
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-ancestryfeatures.Elfische Abstammung"
+            }
+        ],
+        "size": "med",
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Spez_Elfen.html"
+        },
+        "speed": 30,
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-ancestry",
+                "elf",
+                "humanoid"
+            ]
+        },
+        "vision": "lowLightVision"
+    },
+    "type": "ancestry"
+}

@@ -1,0 +1,53 @@
+{
+    "_id": "yiuNi3nohd1aiseo",
+    "img": "systems/pf2e/icons/default-icons/heritage.svg",
+    "name": "Elfische Kultur",
+    "system": {
+        "ancestry": {
+            "name": "Elfen/Elf",
+            "uuid": "Compendium.pf2e.aos-ancestries.zoh8Ahw2ii2ohqua"
+        },
+        "description": {
+            "value": "<p>Du enstammst einer der vier elfischen Kulturen:</p>\n<ul>\n<li>@UUID[Compendium.pf2e-aos.aos-heritages.Aigh0Iexee7Ea7Em]{Auelfen}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-heritages.depep0ohPh9sa3ee]{Firnelfen}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-heritages.NY9OIZpTPTqKGfE5]{Steppenelfen}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-heritages.xooqu6EeF8Baeyah]{Waldelfen}</li>\n</ul>"
+        },
+        "rules": [
+            {
+                "adjustName": true,
+                "choices": [
+                    {
+                        "value": "Compendium.pf2e.aos-heritages.Auelfen"
+                    },
+                    {
+                        "value": "Compendium.pf2e.aos-heritages.Firnelfen"
+                    },
+                    {
+                        "value": "Compendium.pf2e.aos-heritages.Steppenelfen"
+                    },
+                    {
+                        "value": "Compendium.pf2e.aos-heritages.Waldelfen"
+                    }
+                ],
+                "key": "ChoiceSet",
+                "prompt": "PF2E-AoS.SpecificRule.Elfen.Kultur.Prompt"
+            },
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "replaceSelf": true,
+                "uuid": "{item|flags.pf2e.rulesSelections.elfischeKultur}"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Elfen.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "elf",
+                "hb_aos-heritage"
+            ]
+        }
+    },
+    "type": "heritage"
+}
