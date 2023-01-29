@@ -1,0 +1,56 @@
+{
+    "_id": "oHeethaig3Thou6u",
+    "img": "systems/pf2e/icons/default-icons/heritage.svg",
+    "name": "Tulamiden",
+    "system": {
+        "ancestry": {
+            "name": "Human",
+            "uuid": "Compendium.pf2e.ancestries.IiG7DgeLWYrSNXuX"
+        },
+        "description": {
+            "value": "<p>Du bist ein tulamidischer Mensch und kannst aus diesen Kulturen auswählen:</p>\n<ul>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.oYoomah0zail3Qui]{Aranier}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.IeMopahphu2zaeph]{Maraskaner}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.Daree6Igiul7euze]{Mhanadistani}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.Eheighoop9ya1Eij]{Novadis}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.aex0Aengebah2Eid]{Südaventurier}</li>\n</ul>"
+        },
+        "rules": [
+            {
+                "adjustName": false,
+                "choices": [
+                    {
+                        "value": "Compendium.pf2e.aos-backgrounds.Aranier"
+                    },
+                    {
+                        "value": "Compendium.pf2e.aos-backgrounds.Maraskaner"
+                    },
+                    {
+                        "value": "Compendium.pf2e.aos-backgrounds.Mhanadistani"
+                    },
+                    {
+                        "value": "Compendium.pf2e.aos-backgrounds.Novadis"
+                    },
+                    {
+                        "value": "Compendium.pf2e.aos-backgrounds.Südaventurier"
+                    }
+                ],
+                "flag": "kulturAuswahl",
+                "key": "ChoiceSet",
+                "prompt": "PF2E-AoS.SpecificRule.Menschen.Kultur.Prompt"
+            },
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "{item|flags.pf2e.rulesSelections.kulturAuswahl}"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Spez_Menschen.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "human",
+                "hb_aos-heritage"
+            ]
+        }
+    },
+    "type": "heritage"
+}

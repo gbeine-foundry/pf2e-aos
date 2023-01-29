@@ -1,0 +1,38 @@
+{
+    "_id": "Iem7ohphiu8Aghie",
+    "img": "systems/pf2e/icons/default-icons/heritage.svg",
+    "name": "Koboldweltler",
+    "system": {
+        "ancestry": {
+            "name": "Human",
+            "uuid": "Compendium.pf2e.ancestries.IiG7DgeLWYrSNXuX"
+        },
+        "description": {
+            "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.shiil5umae7ebi7E]{Koboldweltler} und musst diese als Hintergrund auswählen.</p>"
+        },
+        "rules": [
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-backgrounds.Koboldweltler"
+            },
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-ancestryfeatures.Koboldweltler"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/rergbgfb.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-heritage",
+                "hb_aos-koboldweltler",
+                "human"
+            ]
+        }
+    },
+    "type": "heritage"
+}

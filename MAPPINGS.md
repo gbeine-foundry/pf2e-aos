@@ -163,6 +163,31 @@ For the other cases, there is a suggestion how to deal with it.
 
 ### Human Backgrounds
 
+| Rule Element (DSA/TDE)                                                           | Adaption (PF2e) | Ability boots            | Skill        | Lore                | Feat                                                                    | Notes                                                                                       |
+|----------------------------------------------------------------------------------|-----------------|--------------------------|--------------|---------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| [Kultur Andergaster](https://ulisses-regelwiki.de/Kul_Andergaster.html)          | Andergaster     | 1st STR or CON, 2nd free | Survival     | Scouting Lore       | [Terrain Expertise (Forest)](https://2e.aonprd.com/Feats.aspx?ID=851)   | Granted language: Garethi                                                                   |
+| [Kultur Aranier](https://ulisses-regelwiki.de/Kul_Aranier.html)                  | Aranier         | 1st DEX or CHA, 2nd free | Diplomacy    | Regional (Aranien)  | [Hobnobber](https://2e.aonprd.com/Feats.aspx?ID=791)                    | Granted language: Tulamidya or Garethi                                                      |
+| [Kultur Bornländer](https://ulisses-regelwiki.de/Kul_Bornl%C3%A4nder.html)       | Bornländer      | 1st DEX or CON, 2nd free | Crafting     | Regional (Bornland) | [Quick Repair](https://2e.aonprd.com/Feats.aspx?ID=827)                 | Granted language: Garethi                                                                   |
+| [Kultur Ferkinas](https://ulisses-regelwiki.de/kul_Ferkinas.html)                | Ferkinas        | 1st DEX or CON, 2nd free | Athletics    | Scouting Lore       | [Combat Climber](https://2e.aonprd.com/Feats.aspx?ID=768)               | Granted language: Ferkina                                                                   |
+| [Kultur Fjarninger](https://ulisses-regelwiki.de/Kul_Fjarninger.html)            | Fjarninger      | 1st STR or CON, 2nd free | Intimidation | Scouting Lore       | [Intimidating Glare](https://2e.aonprd.com/Feats.aspx?ID=796)           | Granted language: Fjarningsch                                                               |
+| [Kultur Gjalsker](https://ulisses-regelwiki.de/kul_Gjalsker.html)                | Gjalsker        | 1st STR or CON, 2nd free | Athletics    | Hunting Lore        | [Hefty Hauler](https://2e.aonprd.com/Feats.aspx?ID=790)                 | Granted language: Gjalskisch                                                                |
+| [Kultur Horasier](https://ulisses-regelwiki.de/Kul_Horasier.html)                | Horasier        | 1st INT or CHA, 2nd free | Society      | Heraldry Lore       | [Streetwise](https://2e.aonprd.com/Feats.aspx?ID=846)                   | Granted language: Garethi                                                                   |
+| [Kultur Koboldweltler](https://ulisses-regelwiki.de/rergbgfb.html)               | Koboldweltler   | 1st DEX or CHA, 2nd free | Performance  | Plane (Koboldwelt)  | [Virtuosic Performer (Comedy)](https://2e.aonprd.com/Feats.aspx?ID=862) | Granted language: Garethi and Koboldisch; only Schelme can choose this heritage and culture |
+| [Kultur Maraskaner](https://ulisses-regelwiki.de/Kul_Maraskaner.html)            | Maraskaner      | 1st DEX or WIS, 2nd free | Nature       | Herbalism Lore      | [Natural Medicine](https://2e.aonprd.com/Feats.aspx?ID=815)             | Granted language: Garethi or Tulamidya                                                      |
+| [Kultur Mhanadistani](https://ulisses-regelwiki.de/Kul_Mhanadistani.html)        | Mhanadistani    | 1st DEX or CHA, 2nd free | Diplomacy    | Storytelling Lore   | [Hobnobber](https://2e.aonprd.com/Feats.aspx?ID=791)                    | Granted language: Tulamidya                                                                 |
+| [Kultur Mittelreicher](https://ulisses-regelwiki.de/Kul_Mittelreicher.html)      | Mittelreicher   | 1st STR or DEX, 2nd free | Crafting     | Regional (choose)   | [Specialty Crafting](https://2e.aonprd.com/Feats.aspx?ID=844) (choose)  | Granted language: Garethi                                                                   |
+| [Kultur Mohas](https://ulisses-regelwiki.de/Kul_Mohas.html)                      | Mohas           | 1st DEX or CHA, 2nd free | Nature       | Hunting Lore        | [Tame Animal](https://2e.aonprd.com/Feats.aspx?ID=3424)                 | Granted language: Mohisch                                                                   |
+| [Kultur Nivesen](https://ulisses-regelwiki.de/Kul_Nivesen.html)                  | Nivesen         | 1st DEX or WIS, 2nd free | Nature       | Hunting Lore        | [Tame Animal](https://2e.aonprd.com/Feats.aspx?ID=3424)                 | Granted language: Nujuka                                                                    |
+| [Kultur Norbarden](https://ulisses-regelwiki.de/Kul_Norbarden.html)              | Norbarden       | 1st WIS or CHA, 2nd free | Diplomacy    | Mercantile Lore     | [Bargain Hunter](https://2e.aonprd.com/Feats.aspx?ID=758)               | Granted language: Alaani                                                                    |
+| [Kultur Nordaventurier](https://ulisses-regelwiki.de/Kul_Nordaventurier.html)    | Nordaventurier  | 1st STR or CON, 2nd free | Survival     | Regional (choose)   | [Terrain Expertise](https://2e.aonprd.com/Feats.aspx?ID=851) (choose)   | Granted language: Alaani, Garethi, Nujuka, or Thorwalsch                                    |
+| [Kultur Nostrier](https://ulisses-regelwiki.de/Kul_Nostrier.html)                | Nostrier        | 1st STR or CON, 2nd free | Survival     | Fishing Lore        | [Forager](https://2e.aonprd.com/Feats.aspx?ID=786)                      | Granted language: Garethi                                                                   |
+| [Kultur Novadis](https://ulisses-regelwiki.de/Kul_Novadis.html)                  | Novadis         | 1st DEX or CHA, 2nd free | Nature       | Scouting Lore       | [Express Rider](https://2e.aonprd.com/Feats.aspx?ID=2126)               | Granted language: Tulamidya                                                                 |
+| [Kultur Svellttaler](https://ulisses-regelwiki.de/Kul_Svellttaler.html)          | Svellttaler     | 1st DEX or CON, 2nd free | Survival     | Hunting Lore        | [Terrain Expertise](https://2e.aonprd.com/Feats.aspx?ID=851) (choose)   | Granted language: Garethi                                                                   |
+| [Kultur Südaventurier](https://ulisses-regelwiki.de/Kul_S%C3%BCdaventurier.html) | Südaventurier   | 1st INT or CHA, 2nd free | Diplomacy    | Regional (choose)   | [Hobnobber](https://2e.aonprd.com/Feats.aspx?ID=791)                    | Granted language: Garethi                                                                   |
+| [Kultur Thorwaler](https://ulisses-regelwiki.de/Kul_Thorwaler.html)              | Thorwaler       | 1st STR or CON, 2nd free | Athletics    | Sailing Lore        | [Underwater Marauder](https://2e.aonprd.com/Feats.aspx?ID=858)          | Granted language: Thorwalsch                                                                |
+| [Kultur Trollzacker](https://ulisses-regelwiki.de/Kul_Trollzacker.html)          | Trollzacker     | 1st STR or CON, 2nd free | Athletics    | Hunting Lore        | [Combat Climber](https://2e.aonprd.com/Feats.aspx?ID=768)               | Granted language: Zhulchammagra                                                             |
+| [Kultur Zahori](https://ulisses-regelwiki.de/kul_Zahori.html)                    | Zahori          | 1st DEX or CHA, 2nd free | Thievery     | Underworld Lore     | [Subtle Theft](https://2e.aonprd.com/Feats.aspx?ID=848)                 | Granted language: Tulamidya                                                                 |
+| [Kultur Zyklopäer](https://ulisses-regelwiki.de/Kul_Zyklop%C3%A4er.html)         | Zyklopäer       | 1st WIS or INT, 2nd free | Society      | Deity Lore (choose) | [Glean Contents](https://2e.aonprd.com/Feats.aspx?ID=2129)              | Granted language: Zyklopäisch                                                               |
 
 ### Auelfen
 
@@ -175,6 +200,8 @@ For the other cases, there is a suggestion how to deal with it.
   * [Elven Weapon Elegance](https://2e.aonprd.com/Feats.aspx?ID=20) on level 5
   * [Elven Weapon Expertise](https://2e.aonprd.com/Feats.aspx?ID=24) on level 13
 * The background provides no trained skill and no trained lore as both are granted through the heritage with the [Elven Lore](https://2e.aonprd.com/Feats.aspx?ID=13) feat.
+* The background grants an ability boost for DEX or CHA and a free ability boost
+* The background grants the [Natural Medicine](https://2e.aonprd.com/Feats.aspx?ID=815) skill feat
 
 ### Firnelfen
 
@@ -187,6 +214,8 @@ For the other cases, there is a suggestion how to deal with it.
   * [Elven Weapon Elegance](https://2e.aonprd.com/Feats.aspx?ID=20) on level 5
   * [Elven Weapon Expertise](https://2e.aonprd.com/Feats.aspx?ID=24) on level 13
 * The background provides no trained skill and no trained lore as both are granted through the heritage with the [Elven Lore](https://2e.aonprd.com/Feats.aspx?ID=13) feat.
+* The background grants an ability boost for DEX or WIS and a free ability boost
+* The background grants the [Tame Animal](https://2e.aonprd.com/Feats.aspx?ID=3424) skill feat
 
 ### Steppenelfen
 
@@ -199,6 +228,8 @@ For the other cases, there is a suggestion how to deal with it.
   * [Elven Weapon Elegance](https://2e.aonprd.com/Feats.aspx?ID=20) on level 5
   * [Elven Weapon Expertise](https://2e.aonprd.com/Feats.aspx?ID=24) on level 13
 * The background provides no trained skill and no trained lore as both are granted through the heritage with the [Elven Lore](https://2e.aonprd.com/Feats.aspx?ID=13) feat.
+* The background grants an ability boost for DEX or WIS and a free ability boost
+* The background grants the [Express Rider](https://2e.aonprd.com/Feats.aspx?ID=2126) skill feat
 
 ### Waldelfen
 
@@ -211,34 +242,60 @@ For the other cases, there is a suggestion how to deal with it.
   * [Elven Weapon Elegance](https://2e.aonprd.com/Feats.aspx?ID=20) on level 5
   * [Elven Weapon Expertise](https://2e.aonprd.com/Feats.aspx?ID=24) on level 13
 * The background provides no trained skill and no trained lore as both are granted through the heritage with the [Elven Lore](https://2e.aonprd.com/Feats.aspx?ID=13) feat.
+* The background grants an ability boost for DEX or WIS and a free ability boost
+* The background grants the [Train Animal](https://2e.aonprd.com/Feats.aspx?ID=856) skill feat
 
 ### Ambosszwerge
 
-* muss als Ancestry [Dwarf](https://2e.aonprd.com/Ancestries.aspx?ID=1) auswählen
+* Ambosszwerg is a culture in DSA and splitted into a heritage and a background for PF2.
+* The heritage requires the AoS specific ancestry Dwarf (see [above](#Dwarf)).
+* The heritage grants an AoS specific feat Dwarven Ancestry that grants the following feats
+  * [Dwarven Lore](https://2e.aonprd.com/Feats.aspx?ID=1) on level 1, which leads to be trained in crafting and religion as well as access to [Dwarven Lore](https://2e.aonprd.com/Skills.aspx?ID=8).
+  * [Dwarven Weapon Familiarity](https://2e.aonprd.com/Feats.aspx?ID=2) on level 1
+  * [Dwarven Weapon Cunning](https://2e.aonprd.com/Feats.aspx?ID=8) on level 5
+  * [Dwarven Weapon Expertise](https://2e.aonprd.com/Feats.aspx?ID=11) on level 13
+* The background provides no trained skill and no trained lore as both are granted through the heritage with the [Dwarven Lore](https://2e.aonprd.com/Feats.aspx?ID=1) feat.
+* The background grants an ability boost for STR or CON and a free ability boost
+* The background grants the [Specialty Crafting (Blacksmithing)](https://2e.aonprd.com/Feats.aspx?ID=844) skill feat
 
 ### Brillantzwerge
 
-* muss als Ancestry [Dwarf](https://2e.aonprd.com/Ancestries.aspx?ID=1) auswählen
+* Brillantzwerg is a culture in DSA and splitted into a heritage and a background for PF2.
+* The heritage requires the AoS specific ancestry Dwarf (see [above](#Dwarf)).
+* The heritage grants an AoS specific feat Dwarven Ancestry that grants the following feats
+  * [Dwarven Lore](https://2e.aonprd.com/Feats.aspx?ID=1) on level 1, which leads to be trained in crafting and religion as well as access to [Dwarven Lore](https://2e.aonprd.com/Skills.aspx?ID=8).
+  * [Dwarven Weapon Familiarity](https://2e.aonprd.com/Feats.aspx?ID=2) on level 1
+  * [Dwarven Weapon Cunning](https://2e.aonprd.com/Feats.aspx?ID=8) on level 5
+  * [Dwarven Weapon Expertise](https://2e.aonprd.com/Feats.aspx?ID=11) on level 13
+* The background provides no trained skill and no trained lore as both are granted through the heritage with the [Dwarven Lore](https://2e.aonprd.com/Feats.aspx?ID=1) feat.
+* The background grants an ability boost for DEX or CON and a free ability boost
+* The background grants the [Specialty Crafting (Artistry)](https://2e.aonprd.com/Feats.aspx?ID=844) skill feat
 
 ### Erzzwerge
 
-* muss als Ancestry [Dwarf](https://2e.aonprd.com/Ancestries.aspx?ID=1) auswählen
+* Erzzwerg is a culture in DSA and splitted into a heritage and a background for PF2.
+* The heritage requires the AoS specific ancestry Dwarf (see [above](#Dwarf)).
+* The heritage grants an AoS specific feat Dwarven Ancestry that grants the following feats
+  * [Dwarven Lore](https://2e.aonprd.com/Feats.aspx?ID=1) on level 1, which leads to be trained in crafting and religion as well as access to [Dwarven Lore](https://2e.aonprd.com/Skills.aspx?ID=8).
+  * [Dwarven Weapon Familiarity](https://2e.aonprd.com/Feats.aspx?ID=2) on level 1
+  * [Dwarven Weapon Cunning](https://2e.aonprd.com/Feats.aspx?ID=8) on level 5
+  * [Dwarven Weapon Expertise](https://2e.aonprd.com/Feats.aspx?ID=11) on level 13
+* The background provides no trained skill and no trained lore as both are granted through the heritage with the [Dwarven Lore](https://2e.aonprd.com/Feats.aspx?ID=1) feat.
+* The background grants an ability boost for CON or WIS and a free ability boost
+* The background grants the [Specialty Crafting (Stonemasonry)](https://2e.aonprd.com/Feats.aspx?ID=844) skill feat
 
 ### Hügelzwerge
 
-* muss als Ancestry [Dwarf](https://2e.aonprd.com/Ancestries.aspx?ID=1) auswählen
-
-### Vorteil Immunität gegen Gift
-
-* benutzt [Immunity](https://2e.aonprd.com/Rules.aspx?ID=343)-Effekt permanent
-* permanente Immunität gegen [Poison](https://2e.aonprd.com/Traits.aspx?ID=126)
-* selektiert Gift aus einer Liste
-
-### Vorteil Immunität gegen Krankheit
-
-* benutzt [Immunity](https://2e.aonprd.com/Rules.aspx?ID=343)-Effekt permanent
-* permanente Immunität gegen [Disease](https://2e.aonprd.com/Traits.aspx?ID=46)
-* selektiert Krankheit von [Diseases](https://2e.aonprd.com/Diseases.aspx)
+* Hügelzwerg is a culture in DSA and splitted into a heritage and a background for PF2.
+* The heritage requires the AoS specific ancestry Dwarf (see [above](#Dwarf)).
+* The heritage grants an AoS specific feat Dwarven Ancestry that grants the following feats
+  * [Dwarven Lore](https://2e.aonprd.com/Feats.aspx?ID=1) on level 1, which leads to be trained in crafting and religion as well as access to [Dwarven Lore](https://2e.aonprd.com/Skills.aspx?ID=8).
+  * [Dwarven Weapon Familiarity](https://2e.aonprd.com/Feats.aspx?ID=2) on level 1
+  * [Dwarven Weapon Cunning](https://2e.aonprd.com/Feats.aspx?ID=8) on level 5
+  * [Dwarven Weapon Expertise](https://2e.aonprd.com/Feats.aspx?ID=11) on level 13
+* The background provides no trained skill and no trained lore as both are granted through the heritage with the [Dwarven Lore](https://2e.aonprd.com/Feats.aspx?ID=1) feat.
+* The background grants an ability boost for CON or CHA and a free ability boost
+* The background grants the [Improvise Tool](https://2e.aonprd.com/Feats.aspx?ID=2131) skill feat
 
 ### Languages
 

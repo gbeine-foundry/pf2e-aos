@@ -1,0 +1,53 @@
+{
+    "_id": "Ioleetei9Bio6Rah",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Zyklopäer",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "int",
+                    "wis"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human}</p>\n<hr />\n<p><strong>Zyklopäer</strong> sind die Bewohner der <a title=\"Zyklopeninseln\" href=\"https://de.wiki-aventurica.de/wiki/Zyklopeninseln\">Zyklopeninseln</a>.</p>\n<dl>\n<dt></dt>\n</dl>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Zyklop%C3%A4er\">Wiki Aventurica - Zyklopäer</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Zyklop%C3%A4er.html\">Menschliche Kulturen - Zyklopäer</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Intelligenz</strong> oder <strong>Weisheit</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Gesellschaftskunst und die Fertigkeit Kenntnis Deity Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Glean Contents]{Schriftstück überfliegen/Glean Contents}.</p>\n<p>Du sprichst als Muttersprache Zyklopäisch.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Glean Contents"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Zyklop%C3%A4er.html"
+        },
+        "trainedLore": "<Deity> Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "soc"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

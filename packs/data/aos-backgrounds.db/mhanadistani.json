@@ -1,0 +1,53 @@
+{
+    "_id": "Daree6Igiul7euze",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Mhanadistani",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex",
+                    "cha"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human}</p>\n<hr />\n<p><strong>Mhanadistani</strong> ist eine Kultur der <a title=\"Menschen\" href=\"https://de.wiki-aventurica.de/wiki/Menschen\">Menschen</a> in den <a title=\"Tulamidenlande\" href=\"https://de.wiki-aventurica.de/wiki/Tulamidenlande\">Tulamidenlanden</a>.</p>\n<dl>\n<dt></dt>\n</dl>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Mhanadistani\">Wiki Aventurica - Mhanadistani</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Mhanadistani.html\">Menschliche Kulturen - Mhanadistani</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Geschicklichkeit</strong> oder <strong>Charisma</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Diplomatie und die Fertigkeit Kenntnis Storytelling Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Hobnobber]{Informationssammler/Hobnobber}.</p>\n<p>Du sprichst als Muttersprache Tulamidya.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Hobnobber"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Mhanadistani.html"
+        },
+        "trainedLore": "Storytelling",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "dip"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

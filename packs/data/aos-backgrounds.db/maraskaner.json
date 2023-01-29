@@ -1,0 +1,53 @@
+{
+    "_id": "IeMopahphu2zaeph",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Maraskaner",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex",
+                    "wis"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human}</p>\n<hr />\n<p><strong>Maraskaner</strong>, auch <strong>Maraskani</strong>, ist die <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> der Nachfahren der <a title=\"Beni Rurech\" href=\"https://de.wiki-aventurica.de/wiki/Beni_Rurech\">Beni Rurech</a> und der <a title=\"Beni Reich\" href=\"https://de.wiki-aventurica.de/wiki/Beni_Reich\">Beni Reich</a> auf <a title=\"Maraskan\" href=\"https://de.wiki-aventurica.de/wiki/Maraskan\">Maraskan</a>. Ähnlich wie bei den <a class=\"mw-redirect\" title=\"Novadi\" href=\"https://de.wiki-aventurica.de/wiki/Novadi\">Novadis</a>, die nicht alle zum Stamm der <a title=\"Beni Novad\" href=\"https://de.wiki-aventurica.de/wiki/Beni_Novad\">Beni Novad</a> gehören, definieren sich Maraskaner meist über Kultur und Glaube. Sie bewohnen die Insel <a title=\"Maraskan\" href=\"https://de.wiki-aventurica.de/wiki/Maraskan\">Maraskan</a> und die ostaventurische Küste. Exilmaraskaner werden häufig als <a title=\"Beni Bornrech\" href=\"https://de.wiki-aventurica.de/wiki/Beni_Bornrech\">Beni Bornrech</a> bezeichnet.</p>\n<dl>\n<dt></dt>\n</dl>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Maraskaner\">Wiki Aventurica - Maraskaner</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Maraskaner.html\">Menschliche Kulturen - Maraskaner</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Geschicklichkeit</strong> oder <strong>Weisheit</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Naturkunde und die Fertigkeit Kenntnis Herbalism Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Natural Medicine]{Naturheilkunde/Natural Medicine}.</p>\n<p>Du sprichst als Muttersprache Garethi oder Tulamidya.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Natural Medicine"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Maraskaner.html"
+        },
+        "trainedLore": "Herbalism Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "nat"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

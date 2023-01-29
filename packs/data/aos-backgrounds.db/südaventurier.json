@@ -1,0 +1,53 @@
+{
+    "_id": "aex0Aengebah2Eid",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Südaventurier",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "int",
+                    "cha"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human}</p>\n<hr />\n<p><strong>Südaventurier</strong> sind die Bewohner <a title=\"Meridiana\" href=\"https://de.wiki-aventurica.de/wiki/Meridiana\">Meridianas</a>, die nicht zu den <a title=\"Waldmenschen\" href=\"https://de.wiki-aventurica.de/wiki/Waldmenschen\">Waldmenschen</a> oder <a title=\"Utulu\" href=\"https://de.wiki-aventurica.de/wiki/Utulu\">Utulus</a> gehören.</p>\n<dl>\n<dt></dt>\n</dl>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/S%C3%BCdaventurier\">Wiki Aventurica - Südaventurier</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_S%C3%BCdaventurier.html\">Menschliche Kulturen - Südaventurier</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Intelligenz</strong> oder <strong>Charisma</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Diplomatie und die Fertigkeit Kenntnis Regional. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Hobnobber]{Informationssammler/Hobnobber}.</p>\n<p>Du sprichst als Muttersprache Garethi.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Hobnobber"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_S%C3%BCdaventurier.html"
+        },
+        "trainedLore": "Regional",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "dip"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

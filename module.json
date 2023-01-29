@@ -38,12 +38,15 @@
         "creatureTraits": {
           "aventurien": "Aventurien",
           "aos-ancestry": "Aventurische Abstammung",
-          "aos-background": "Aventurische Hintergründe"
+          "aos-background": "Aventurischer Hintergrund",
+          "aos-koboldweltler": "Koboldweltler"
         },
         "featTraits": {
           "aventurien": "Aventurien",
           "aos-ancestry": "Aventurische Abstammung",
           "aos-heritage": "Aventurische Herkunft",
+          "aos-background": "Aventurischer Hintergrund",
+          "aos-koboldweltler": "Koboldweltler",
           "aos-feat": "Talent (AoS)",
           "aos-amazone": "Amazone",
           "aos-schwertgesellen": "Schwertgesellen"
@@ -58,7 +61,48 @@
           "aventurien": "Aventurien"
         },
         "languages": {
-          "aventurien": "Aventurien"
+          "aos-alaani": "Alaani",
+          "aos-amuurak": "Amuurak",
+          "aos-angram": "Angram",
+          "aos-asdharia": "Asdharia",
+          "aos-atak": "Atak",
+          "aos-aureliani": "Aureliani",
+          "aos-bosparano": "Bosparano",
+          "aos-bukanisch": "Bukanisch",
+          "aos-ferkina": "Ferkina",
+          "aos-fjarningsch": "Fjarningsch",
+          "aos-garethi": "Garethi",
+          "aos-gjalskisch": "Gjalskisch",
+          "aos-golp": "Golp",
+          "aos-grolmisch": "Grolmisch",
+          "aos-hummerisch": "Hummerisch",
+          "aos-kemi": "Kemi",
+          "aos-koboldisch": "Koboldisch",
+          "aos-krakonisch": "Krakonisch",
+          "aos-mahrisch": "Mahrisch",
+          "aos-mohisch": "Mohisch",
+          "aos-molochisch": "Molochisch",
+          "aos-neckergesang": "Neckergesang",
+          "aos-nujuka": "Nujuka",
+          "aos-ogrisch": "Ogrisch",
+          "aos-ologhaijan": "Ologhaijan",
+          "aos-rabensprache": "Rabensprache",
+          "aos-riesensprache": "Riesensprache",
+          "aos-rissoal": "Rissoal",
+          "aos-rssahh": "Rssahh",
+          "aos-ruuz": "Ruuz",
+          "aos-saga-thorwalsch": "Saga-Thorwalsch",
+          "aos-thorwalsch": "Thorwalsch",
+          "aos-tiefzwergisch": "Tiefzwergisch",
+          "aos-trollisch": "Trollisch",
+          "aos-tulamidya": "Tulamidya",
+          "aos-ur-tulamidya": "Ur-Tulamidya",
+          "aos-yetan": "Yetan",
+          "aos-z-lit": "Z'Lit",
+          "aos-zelemja": "Zelemja",
+          "aos-zhayad": "Zhayad",
+          "aos-zhulchammagra": "Zhulchammagra",
+          "aos-zyklopäisch": "Zyklopäisch"
         },
         "magicSchools": {
           "aventurien": "Aventurien"

@@ -1,0 +1,44 @@
+{
+    "_id": "abiePhaeShi5Waiv",
+    "img": "systems/pf2e/icons/default-icons/alternatives/ancestries/human.svg",
+    "name": "Koboldweltler",
+    "system": {
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Als Koboldweltler muss du die Klasse Schelm auswählen.</p>\n<p>Du beherrschst @UUID[Compendium.pf2e-aos.aos-feats.VisieVaev0aeYae0]{Koboldisch} und kannst Schelmenmagie wirken.</p>"
+        },
+        "featType": {
+            "value": "ancestryfeature"
+        },
+        "level": {
+            "value": 0
+        },
+        "prerequisites": {
+            "value": []
+        },
+        "rules": [
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-feats.Koboldisch"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/rergbgfb.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-ancestry",
+                "hb_aos-koboldweltler"
+            ]
+        }
+    },
+    "type": "feat"
+}

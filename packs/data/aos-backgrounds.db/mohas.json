@@ -1,0 +1,53 @@
+{
+    "_id": "thieWaeHoh7cuBae",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Mohas",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex",
+                    "cha"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human}</p>\n<hr />\n<p><strong>Mohaha</strong> ist ein Begriff aus der <a title=\"Sprache\" href=\"https://de.wiki-aventurica.de/wiki/Sprache\">Sprache</a> <a class=\"mw-redirect\" title=\"Mohisch\" href=\"https://de.wiki-aventurica.de/wiki/Mohisch\">Mohisch</a> und bedeutet <em>Finger/Bewegung-Mensch-Mensch</em>.</p>\n<p>Die Verdopplung des „ha“ zeigt an, dass das Wort im Plural steht.</p>\n<p>Die <strong>Mohaha</strong> sind der größte Stamm der <a class=\"mw-redirect\" title=\"Waldmensch\" href=\"https://de.wiki-aventurica.de/wiki/Waldmensch\">Waldmenschen</a>. Von den meisten Bewohnern <a title=\"Aventurien\" href=\"https://de.wiki-aventurica.de/wiki/Aventurien\">Aventuriens</a> werden fälschlicherweise alle <a title=\"Waldmenschen\" href=\"https://de.wiki-aventurica.de/wiki/Waldmenschen\">Waldmenschen</a> nach diesem Stamm als Mohas bezeichnet.</p>\n<p>Sie besitzen eine dunkle Hautfarbe, die von <a title=\"Kupfer\" href=\"https://de.wiki-aventurica.de/wiki/Kupfer\">kupfer</a>- bis <a title=\"Bronze\" href=\"https://de.wiki-aventurica.de/wiki/Bronze\">bronzefarben</a> reichen kann, und sind üblicherweise deutlich kleiner und schlanker gebaut als <a title=\"Mittelländer\" href=\"https://de.wiki-aventurica.de/wiki/Mittell%C3%A4nder\">Mittelländer</a> oder <a title=\"Tulamiden\" href=\"https://de.wiki-aventurica.de/wiki/Tulamiden\">Tulamiden</a>. Die meisten Menschen sehen den Körperbau der Mohaha als attraktiv an.</p>\n<p>Sie stammen ursprünglich aus den <a class=\"mw-redirect\" title=\"Dschungel (Wald)\" href=\"https://de.wiki-aventurica.de/wiki/Dschungel_(Wald)\">Dschungeln</a> <a title=\"Südaventurien\" href=\"https://de.wiki-aventurica.de/wiki/S%C3%BCdaventurien\">Südaventuriens</a>, haben sich jedoch durch <a title=\"Sklave\" href=\"https://de.wiki-aventurica.de/wiki/Sklave\">Sklavenhaltung</a> unfreiwillig auch in den <a title=\"Mhanadistan\" href=\"https://de.wiki-aventurica.de/wiki/Mhanadistan\">tulamidischen</a> und <a title=\"Al'Anfa\" href=\"https://de.wiki-aventurica.de/wiki/Al%27Anfa\">al'anfanischen</a> Raum ausgebreitet.</p>\n<p>Die westlich des <a title=\"Regengebirge\" href=\"https://de.wiki-aventurica.de/wiki/Regengebirge\">Regengebirges</a> lebenden Mohaha bewachen den <a title=\"Tempel der Roten Jaguare\" href=\"https://de.wiki-aventurica.de/wiki/Tempel_der_Roten_Jaguare\">Tempel der Roten Jaguare</a>.</p>\n<dl>\n<dt></dt>\n</dl>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Mohaha\">Wiki Aventurica - Mohaha</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Mohas.html\">Menschliche Kulturen - Mohas</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Geschicklichkeit</strong> oder <strong>Charisma</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Naturkunde und die Fertigkeit Kenntnis Hunting Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Tame Animal]{Tame Animal}.</p>\n<p>Du sprichst als Muttersprache Mohisch.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Tame Animal"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Mohas.html"
+        },
+        "trainedLore": "Hunting Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "nat"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

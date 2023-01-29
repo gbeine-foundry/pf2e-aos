@@ -1,0 +1,37 @@
+{
+    "_id": "MY689p5yEiJxZ7sy",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Klingenfänger",
+    "system": {
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>+2 AC if weapon with parry trait and weapon not used for attack in this round.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Effect: Dueling Parry]{Effect: Dueling Parry}</p>"
+        },
+        "featType": {
+            "value": "class"
+        },
+        "level": {
+            "value": 1
+        },
+        "prerequisites": {
+            "value": []
+        },
+        "rules": [],
+        "source": {
+            "value": ""
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-feat"
+            ]
+        }
+    },
+    "type": "feat"
+}

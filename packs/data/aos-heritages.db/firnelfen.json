@@ -5,7 +5,7 @@
     "system": {
         "ancestry": {
             "name": "Elf",
-            "uuid": "Compendium.pf2e.aos-ancestries.zoh8Ahw2ii2ohqua"
+            "uuid": "Compendium.pf2e.ancestries.PgKmsA2aKdbLU6O0"
         },
         "description": {
             "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.yesh0ieth7quie3I]{Firnelfen} und musst diese als Hintergrund auswählen.</p>"
@@ -14,6 +14,10 @@
             {
                 "key": "GrantItem",
                 "uuid": "Compendium.pf2e.aos-backgrounds.Firnelfen"
+            },
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.aos-ancestryfeatures.Elfische Abstammung"
             }
         ],
         "source": {

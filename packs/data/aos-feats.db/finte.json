@@ -1,0 +1,69 @@
+{
+    "_id": "Euche5la8yee8ove",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Finte",
+    "system": {
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Circumstance Bonus for Deception when feinting.</p>\n<p>Level 1-6: +1</p>\n<p>Level 7-14: +2</p>\n<p>Level 15: +3</p>"
+        },
+        "featType": {
+            "value": "class"
+        },
+        "level": {
+            "value": 1
+        },
+        "prerequisites": {
+            "value": []
+        },
+        "rules": [
+            {
+                "key": "FlatModifier",
+                "label": "Finte",
+                "predicate": [
+                    {
+                        "or": [
+                            "action:feint",
+                            "action:create-a-diversion"
+                        ]
+                    }
+                ],
+                "selector": "deception",
+                "type": "circumstance",
+                "value": {
+                    "brackets": [
+                        {
+                            "end": 6,
+                            "value": 1
+                        },
+                        {
+                            "end": 14,
+                            "start": 7,
+                            "value": 2
+                        },
+                        {
+                            "start": 15,
+                            "value": 3
+                        }
+                    ]
+                }
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/KSF_Finte.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-feat"
+            ]
+        }
+    },
+    "type": "feat"
+}

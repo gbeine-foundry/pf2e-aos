@@ -1,0 +1,53 @@
+{
+    "_id": "Ahpeomahciethal7",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Zahori",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex",
+                    "cha"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human}</p>\n<hr />\n<p>Die <strong>Zahori</strong> sind eine <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> reisender <a title=\"Menschen\" href=\"https://de.wiki-aventurica.de/wiki/Menschen\">Menschen</a>, deren Vertreter hauptsächlich in <a title=\"Almada\" href=\"https://de.wiki-aventurica.de/wiki/Almada\">Almada</a> anzutreffen sind. Alles, was sie an Besitztümern haben, kommt auf Planwagen oder Packtieren unter. Aufgrund ihrer herrenlosen Lebensweise haben die Zahori oft mit <a title=\"Vorurteile\" href=\"https://de.wiki-aventurica.de/wiki/Vorurteile\">Vorurteilen</a> und Anfeindung zu kämpfen. Bekannt sind sie für ihre Liebe zur <a title=\"Musizieren\" href=\"https://de.wiki-aventurica.de/wiki/Musizieren\">Musik</a> und zu <a title=\"Pferd\" href=\"https://de.wiki-aventurica.de/wiki/Pferd\">Pferden</a>, sowie der <a class=\"mw-disambig\" title=\"Inrah\" href=\"https://de.wiki-aventurica.de/wiki/Inrah\">Inrah</a>- und <a title=\"Prophezeien\" href=\"https://de.wiki-aventurica.de/wiki/Prophezeien\">Wahrsagekunst</a>, weswegen „Zahori“ im <a title=\"Almadanisch\" href=\"https://de.wiki-aventurica.de/wiki/Almadanisch\">Almadanischen</a> oft synonym für „Wahrsager“ und „Zauberer“ verwendet wird.</p>\n<p>Die Zahori weisen größte Ähnlichkeit mit den <a title=\"Almadani\" href=\"https://de.wiki-aventurica.de/wiki/Almadani\">Almadanis</a> auf, haben aber meist noch einen Schuss mehr <a title=\"Tulamiden\" href=\"https://de.wiki-aventurica.de/wiki/Tulamiden\">tulamidisches</a> Blut. So teilen sie die dunkleren Hauttypen, schwarze und dunkelbraune Haare und Augen sowie die scharfen Gesichtszüge und schmalen, markanten Nasen. Aufgrund ihrer fahrenden Lebensweise, dem geringen Wohlstand und <a title=\"Gaukler\" href=\"https://de.wiki-aventurica.de/wiki/Gaukler\">gauklerischer</a> Professionen haben sie meist schlanke, athletische Körper.</p>\n<p>Die Zahori verehren hauptsächlich die junge Göttin als <a class=\"mw-redirect\" title=\"Za (Göttin)\" href=\"https://de.wiki-aventurica.de/wiki/Za_(G%C3%B6ttin)\">Za</a> mit ihren Partner <a title=\"Boron\" href=\"https://de.wiki-aventurica.de/wiki/Boron\">Boron</a>, sowie das <a title=\"Gott\" href=\"https://de.wiki-aventurica.de/wiki/Gott\">Götterpaar</a> <a title=\"Rahja\" href=\"https://de.wiki-aventurica.de/wiki/Rahja\">Rahja</a> und <a title=\"Phex\" href=\"https://de.wiki-aventurica.de/wiki/Phex\">Phex</a>. Die <a title=\"Sippe\" href=\"https://de.wiki-aventurica.de/wiki/Sippe\">Sippe</a> spielt wie die <a title=\"Familia\" href=\"https://de.wiki-aventurica.de/wiki/Familia\">Familia</a> bei den Almadanis größte Bedeutung, besteht meist aus mehreren Familien und wird vom <a title=\"Mhanah\" href=\"https://de.wiki-aventurica.de/wiki/Mhanah\">Mhanah</a> und den Alten geführt, während es selten Ehebünde gibt, die auch nur kurz anhalten. Als Besonderheit der <a title=\"Querella\" href=\"https://de.wiki-aventurica.de/wiki/Querella\">Querella</a> in <a title=\"Almada\" href=\"https://de.wiki-aventurica.de/wiki/Almada\">Almada</a> pflegen die Zahori die <a class=\"mw-redirect\" title=\"Vendetta\" href=\"https://de.wiki-aventurica.de/wiki/Vendetta\">Vendetta</a> und den <a class=\"new\" title=\"Todespfad (Zahori) (Seite nicht vorhanden)\" href=\"https://de.wiki-aventurica.de/de/index.php?title=Todespfad_(Zahori)&amp;action=edit&amp;redlink=1\">Todespfad</a>.</p>\n<dl>\n<dt></dt>\n</dl>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Zahori\">Wiki Aventurica - Zahori</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/kul_Zahori.html\">Menschliche Kulturen - Zahori</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Geschicklichkeit</strong> oder <strong>Charisma</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Diebeskunst und die Fertigkeit Kenntnis Underworld Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Subtle Theft]{Geschickter Dieb/Subtle Theft}.</p>\n<p>Du sprichst als Muttersprache Tulamidya.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Subtle Theft"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/kul_Zahori.html"
+        },
+        "trainedLore": "Underworld Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "thi"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

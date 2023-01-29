@@ -1,0 +1,53 @@
+{
+    "_id": "booje1ahLoav4fa1",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Mittelreicher",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "str",
+                    "dex"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human} or @UUID[Compendium.pf2e-aos.aos-ancestries.OhZei9ailaiquaej]{Halbelf}</p>\n<hr />\n<p><strong>Mittelreicher</strong> ist die <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> der <a title=\"Menschen\" href=\"https://de.wiki-aventurica.de/wiki/Menschen\">Menschen</a> des <a class=\"mw-redirect\" title=\"Mittelreich\" href=\"https://de.wiki-aventurica.de/wiki/Mittelreich\">Mittelreichs</a>.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Mittelreicher\">Wiki Aventurica - Mittelreicher</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Mittelreicher.html\">Menschliche Kulturen - Mittelreicher</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Stärke</strong> oder <strong>Geschicklichkeit</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Handwerkskunst und die Fertigkeit Kenntnis Regional. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Specialty Crafting]{Handwerksspezialist/Specialty Crafting}.</p>\n<p>Du sprichst als Muttersprache Garethi.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Specialty Crafting"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Mittelreicher.html"
+        },
+        "trainedLore": "Regional",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "cra"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

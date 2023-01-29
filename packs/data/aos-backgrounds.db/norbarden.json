@@ -1,0 +1,53 @@
+{
+    "_id": "iJie9EoPhaamubaR",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Norbarden",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "wis",
+                    "cha"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human}</p>\n<hr />\n<p>Die <strong>Norbarden</strong> sind eine <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> der <a title=\"Menschen\" href=\"https://de.wiki-aventurica.de/wiki/Menschen\">Menschen</a> <a title=\"Aventurien\" href=\"https://de.wiki-aventurica.de/wiki/Aventurien\">Aventuriens</a>. „Norbarde“ war ursprünglich eine auf die <a class=\"mw-redirect\" title=\"Theaterritter\" href=\"https://de.wiki-aventurica.de/wiki/Theaterritter\">Theaterritter</a> zurückgehende, abwertende Verballhornung von <a title=\"Beni Nurbad\" href=\"https://de.wiki-aventurica.de/wiki/Beni_Nurbad\">Beni Nurbad</a> bzw. <a title=\"Nurbadi\" href=\"https://de.wiki-aventurica.de/wiki/Nurbadi\">Nurbadi</a>. Der Begriff ist in Aventurien inzwischen deutlich verbreiteter als die Eigenbezeichnung der Kultur als „<a class=\"mw-redirect\" title=\"Alhani\" href=\"https://de.wiki-aventurica.de/wiki/Alhani\">Alhani</a>“.</p>\n<p>Norbarden besitzen die typische gebräunte Haut und die schwarzen Haare ihrer <a title=\"Tulamiden\" href=\"https://de.wiki-aventurica.de/wiki/Tulamiden\">tulamidischen</a> Vorfahren. Verheiratete Männer rasieren sich den Schädel vollständig und tragen häufig lange Schnurrbärte. Verheiratete Frauen rasieren sich nur den Scheitel aus.</p>\n<p>Norbarden sind meist fahrende <a title=\"Händler\" href=\"https://de.wiki-aventurica.de/wiki/H%C3%A4ndler\">Händler</a> und <a title=\"Krämer\" href=\"https://de.wiki-aventurica.de/wiki/Kr%C3%A4mer\">Krämer</a>. Sie leben in matriarchalischen <a title=\"Meschpoche\" href=\"https://de.wiki-aventurica.de/wiki/Meschpoche\">Meschpochen</a>, denen eine <a title=\"Muhme\" href=\"https://de.wiki-aventurica.de/wiki/Muhme\">Muhme</a> vorsteht. Diese wird oft von einer <a title=\"Zibilja\" href=\"https://de.wiki-aventurica.de/wiki/Zibilja\">Zibilja</a> beraten. Der <a title=\"Hesinde\" href=\"https://de.wiki-aventurica.de/wiki/Hesinde\">Hesindekult</a> der Norbarden war möglicherweise der Grund für ihren Exodus aus dem <a title=\"Tulamidenlande\" href=\"https://de.wiki-aventurica.de/wiki/Tulamidenlande\">Tulamidenlande</a>. Sie gelten allgemein als gastfreundlich und wissbegierig, und werden wegen ihrer offenen Art gern gesehen, jedoch oftmals aufgrund ihrer Eingeschworenheit auch mit Misstrauen beäugt.</p>\n<dl>\n<dt></dt>\n</dl>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Norbarden\">Wiki Aventurica - Norbarden</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Norbarden.html\">Menschliche Kulturen - Norbarden</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Weisheit</strong> oder <strong>Charisma</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Diplomatie und die Fertigkeit Kenntnis Mercantile Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Bargain Hunter]{Schnäppchenjäger/Bargain Hunter}.</p>\n<p>Du sprichst als Muttersprache Alaani.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Bargain Hunter"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Norbarden.html"
+        },
+        "trainedLore": "Mercantile Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "dip"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

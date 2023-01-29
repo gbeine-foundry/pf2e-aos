@@ -1,0 +1,53 @@
+{
+    "_id": "YeeZeepolei4Vahc",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Nostrier",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "str",
+                    "con"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human} or @UUID[Compendium.pf2e-aos.aos-ancestries.OhZei9ailaiquaej]{Halbelf}</p>\n<hr />\n<p><strong>Nostrier</strong> bzw. <strong>Nostrianer</strong> ist die Bezeichnung für die Einwohner des <a title=\"Königreich Nostria\" href=\"https://de.wiki-aventurica.de/wiki/K%C3%B6nigreich_Nostria\">Königreichs Nostria</a>. Üblicher Weise sind Nostrier die Bewohner der südlichen Landeshälfte, Nostrianer die der nördlichen.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Nostrier\">Wiki Aventurica - Nostrier</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Nostrier.html\">Menschliche Kulturen - Nostrier</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Stärke</strong> oder <strong>Konstitution</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Überlebenskunst und die Fertigkeit Kenntnis Fishing Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Forager]{Überlebensspezialist/Forager}.</p>\n<p>Du sprichst als Muttersprache Garethi.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Forager"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Nostrier.html"
+        },
+        "trainedLore": "Fishing Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "sur"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

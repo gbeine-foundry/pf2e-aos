@@ -1,0 +1,53 @@
+{
+    "_id": "Eipahngi5shiefex",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Thorwaler",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "str",
+                    "con"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human} or @UUID[Compendium.pf2e-aos.aos-ancestries.OhZei9ailaiquaej]{Halbelf}</p>\n<hr />\n<p>Die <strong>Thorwaler</strong> sind eine <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> der <a title=\"Menschen\" href=\"https://de.wiki-aventurica.de/wiki/Menschen\">Menschen</a> <a title=\"Aventurien\" href=\"https://de.wiki-aventurica.de/wiki/Aventurien\">Aventuriens</a>.</p>\n<p>Thorwaler sind typischerweise groß und stämmig. Sie tragen ihr rotes oder blondes <a title=\"Frisur\" href=\"https://de.wiki-aventurica.de/wiki/Frisur\">Haar</a> häufig lang. <a title=\"Tätowierung (Hautbild)\" href=\"https://de.wiki-aventurica.de/wiki/T%C3%A4towierung_(Hautbild)\">Tätowierungen</a> sind weit verbreitet und zeigen oft Bilder aus der eigenen Vergangenheit oder der thorwalschen Mythologie.</p>\n<p>Wie in vielen anderen aventurischen Kulturen gilt auch bei den Thorwalern die Gleichberechtigung von Mann und Frau. Häufig reden und handeln sie konsequent und nicht sehr diplomatisch. Ihre Rauflust und Trinkfestigkeit sind genauso berühmt wie ihr Mut und ihre Unbeugsamkeit. Bei manchen Thorwalern, vor allem den <a title=\"Swafnir-Kinder\" href=\"https://de.wiki-aventurica.de/wiki/Swafnir-Kinder\">Swafnir-Kindern</a>, tritt die <a class=\"mw-redirect\" title=\"Walwut\" href=\"https://de.wiki-aventurica.de/wiki/Walwut\">Walwut</a> (auch <a title=\"Swafskari\" href=\"https://de.wiki-aventurica.de/wiki/Swafskari\">Swafskari</a> genannt) auf. <a title=\"Sklave\" href=\"https://de.wiki-aventurica.de/wiki/Sklave\">Sklaven</a><a title=\"Händler\" href=\"https://de.wiki-aventurica.de/wiki/H%C3%A4ndler\">händler</a> und <a class=\"mw-redirect\" title=\"Walfänger\" href=\"https://de.wiki-aventurica.de/wiki/Walf%C3%A4nger\">Waljäger</a> werden erbittert bekämpft.</p>\n<p>Die Thorwaler leben häufig in Schiffsgemeinschaften, den <a title=\"Ottajasko\" href=\"https://de.wiki-aventurica.de/wiki/Ottajasko\">Ottajaskos</a>, zusammen in den typischen <a title=\"Jolskrim\" href=\"https://de.wiki-aventurica.de/wiki/Jolskrim\">Langhäusern</a>. Jede <a title=\"Ottajasko\" href=\"https://de.wiki-aventurica.de/wiki/Ottajasko\">Ottajasko</a> hat ihren Anführer den <a class=\"mw-redirect\" title=\"Hetmann\" href=\"https://de.wiki-aventurica.de/wiki/Hetmann\">Hetmann</a> oder eine <a class=\"mw-redirect\" title=\"Hetfrau\" href=\"https://de.wiki-aventurica.de/wiki/Hetfrau\">Hetfrau</a>. Manchmal unterstehen mehrere <a title=\"Ottajasko\" href=\"https://de.wiki-aventurica.de/wiki/Ottajasko\">Ottajaskos</a> einem <a title=\"Jarl (Titel)\" href=\"https://de.wiki-aventurica.de/wiki/Jarl_(Titel)\">Jarl</a>. Die Anführer werden von den Thorwalern gewählt und bei Bedarf wieder abgesetzt, genau wie auch ihre oberste Hetfrau, momentan <a title=\"Jurga Trondesdottir\" href=\"https://de.wiki-aventurica.de/wiki/Jurga_Trondesdottir\">Jurga Trondesdottir</a>. In der thorwalschen Gesellschaft nehmen zudem die <a title=\"Skalde\" href=\"https://de.wiki-aventurica.de/wiki/Skalde\">Skalden</a> eine wichtige Rolle ein.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Thorwaler_(Kultur)\">Wiki Aventurica - Thorwaler</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Thorwaler.html\">Menschliche Kulturen - Thorwaler</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Stärke</strong> oder <strong>Konstitution</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Athletik und die Fertigkeit Kenntnis Sailing Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Underwater Marauder]{Unterwasserkämpfer/Underwater Marauder}.</p>\n<p>Du sprichst als Muttersprache Thorwalsch.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Underwater Marauder"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Thorwaler.html"
+        },
+        "trainedLore": "Sailing Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "ath"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

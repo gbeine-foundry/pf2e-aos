@@ -1,0 +1,53 @@
+{
+    "_id": "WhmcCeqtXvCmne87",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Bornländer",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "str",
+                    "wis"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human} or @UUID[Compendium.pf2e-aos.aos-ancestries.OhZei9ailaiquaej]{Halbelf}</p>\n<hr />\n<p><strong>Bornländer</strong> sind die Bewohner der <a title=\"Bornland (Region)\" href=\"https://de.wiki-aventurica.de/wiki/Bornland_(Region)\">Bornlands</a>. In ihrer Kultur spiegeln sich <a class=\"mw-redirect\" title=\"Norbarde\" href=\"https://de.wiki-aventurica.de/wiki/Norbarde\">norbardische</a> und <a title=\"Nivesen\" href=\"https://de.wiki-aventurica.de/wiki/Nivesen\">nivesische</a> Einflüsse wider.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Bornl%C3%A4nder_(Kultur)\">Wiki Aventurica - Bornländer</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Bornl%C3%A4nder.html\">Menschliche Kulturen - Bornländer</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Stärke</strong> oder <strong>Weisheit</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Handwerkskunst und die Fertigkeit Kenntnis Regional (Bornland). Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Quick Repair]{Schnelles Reparieren/Quick Repair}.</p>\n<p>Du sprichst als Muttersprache Garethi.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Quick Repair"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Bornl%C3%A4nder.html"
+        },
+        "trainedLore": "Regional",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "cra"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

@@ -1,0 +1,53 @@
+{
+    "_id": "Gex0AinguCe3ahyo",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Horasier",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "int",
+                    "cha"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human} or @UUID[Compendium.pf2e-aos.aos-ancestries.OhZei9ailaiquaej]{Halbelf}</p>\n<hr />\n<p><strong>Horasier</strong> nennt man im <a title=\"Garethi\" href=\"https://de.wiki-aventurica.de/wiki/Garethi\">Garethi</a> einen Bewohner des <a class=\"mw-redirect\" title=\"Horasreich\" href=\"https://de.wiki-aventurica.de/wiki/Horasreich\">Horasreichs</a>.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Horasier\">Wiki Aventurica - Horasier</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Horasier.html\">Menschliche Kulturen - Horasier</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Intelligenz</strong> oder <strong>Charisma</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Gesellschaftskunde und die Fertigkeit Kenntnis Heraldry Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Streetwise]{Gassenwissen/Streetwise}.</p>\n<p>Du sprichst als Muttersprache Garethi.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Streetwise"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Horasier.html"
+        },
+        "trainedLore": "Heraldry Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "soc"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

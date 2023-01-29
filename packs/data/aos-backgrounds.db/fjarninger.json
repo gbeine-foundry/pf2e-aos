@@ -1,0 +1,53 @@
+{
+    "_id": "aeheim9ge7eibieH",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Fjarninger",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "str",
+                    "con"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human}</p>\n<hr />\n<p>Die <strong>Fjarninger</strong> sind eine barbarische <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> der <a title=\"Menschen\" href=\"https://de.wiki-aventurica.de/wiki/Menschen\">Menschen</a>, die hauptsächlich im <a title=\"Hoher Norden\" href=\"https://de.wiki-aventurica.de/wiki/Hoher_Norden\">Hohen Norden</a> anzutreffen ist. Sie sind wie die <a title=\"Thorwaler (Kultur)\" href=\"https://de.wiki-aventurica.de/wiki/Thorwaler_(Kultur)\">Thorwaler</a> Nachfahren der <a title=\"Hjaldinger\" href=\"https://de.wiki-aventurica.de/wiki/Hjaldinger\">Hjaldinger</a>.</p>\n<p>Durch das Überleben im Hohen Norden sind Fjarninger im Schnitt größer und kräftiger als andere Nachfahren der <a title=\"Hjaldinger\" href=\"https://de.wiki-aventurica.de/wiki/Hjaldinger\">Hjaldinger</a> und haben meist mit zahlreichen Narben bedeckte, wettergegerbte Haut.</p>\n<p>Sie tragen <a title=\"Pelz\" href=\"https://de.wiki-aventurica.de/wiki/Pelz\">Pelzkleidung</a>, <a title=\"Fell\" href=\"https://de.wiki-aventurica.de/wiki/Fell\">Fellschuhe</a> und <a title=\"Leder\" href=\"https://de.wiki-aventurica.de/wiki/Leder\">Lederhose</a>. Oft benutzen sie <a title=\"Barbarenschwert\" href=\"https://de.wiki-aventurica.de/wiki/Barbarenschwert\">Barbarenschwerter</a> oder <a title=\"Barbarenstreitaxt\" href=\"https://de.wiki-aventurica.de/wiki/Barbarenstreitaxt\">Barbarenstreitäxte</a>.</p>\n<p>Die Fjarninger sind ein eher archaisches, sesshaftes Volk, das hauptsächlich von der <a title=\"Jagd\" href=\"https://de.wiki-aventurica.de/wiki/Jagd\">Jagd</a> auf <a title=\"Elch\" href=\"https://de.wiki-aventurica.de/wiki/Elch\">Elche</a> und <a title=\"Mammut\" href=\"https://de.wiki-aventurica.de/wiki/Mammut\">Mammuts</a> lebt, da in ihren Breitengraden kein <a title=\"Ackerbau\" href=\"https://de.wiki-aventurica.de/wiki/Ackerbau\">Ackerbau</a> möglich ist.</p>\n<p>Die Sippen leben vereinzelt und werden durch den Stärksten geführt. Die Arbeitsgemeinschaft innerhalb der Sippen wird durch die Fähigkeiten des Einzelnen bestimmt. Kann sich jemand nicht als nützlich erweisen, wird er verstoßen und der erbarmungslosen Kälte ausgesetzt.</p>\n<p>In der neuesten Zeit sind die Fjarninger immer wieder im Kampf gegen die Kreaturen <a title=\"Glorana\" href=\"https://de.wiki-aventurica.de/wiki/Glorana\">Gloranas</a> anzutreffen.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Fjarninger\">Wiki Aventurica - Fjarninger</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Fjarninger.html\">Menschliche Kulturen - Fjarninger</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Stärke</strong> oder <strong>Konstitution</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Einschüchtern und die Fertigkeit Kenntnis Scouting Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Intimidating Glare]{Einschüchternder Blick/Intimidating Glare}.</p>\n<p>Du sprichst als Muttersprache Fjarningsch.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Intimidating Glare"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Fjarninger.html"
+        },
+        "trainedLore": "Scouting Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "itm"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

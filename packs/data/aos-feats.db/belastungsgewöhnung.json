@@ -1,0 +1,221 @@
+{
+    "_id": "IeBee0iec0meefu5",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Belastungsgewöhnung",
+    "system": {
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Reduce armor penalty:</p>\n<p>Level 1: by 1</p>\n<p>Level 7: by 2</p>\n<p>Level 15: by 3</p>\n<p>From level 10 on the speed limit is ignored, if any.</p>"
+        },
+        "featType": {
+            "value": "class"
+        },
+        "level": {
+            "value": 1
+        },
+        "prerequisites": {
+            "value": []
+        },
+        "rules": [
+            {
+                "domain": "speed",
+                "key": "RollOption",
+                "option": "armor:ignore-speed-penalty",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            10
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "selector": "acrobatics",
+                "slug": "armor-check-penalty",
+                "value": "min(1+@actor.wornArmor.checkPenalty,0)"
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "selector": "athletics",
+                "slug": "armor-check-penalty",
+                "value": "min(1+@actor.wornArmor.checkPenalty,0)"
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "predicate": [
+                    {
+                        "not": "self:armor:trait:noisy"
+                    }
+                ],
+                "selector": "stealth",
+                "slug": "armor-check-penalty",
+                "value": "min(1+@actor.wornArmor.checkPenalty,0)"
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "predicate": [
+                    {
+                        "not": "self:armor:trait:noisy"
+                    }
+                ],
+                "selector": "thievery",
+                "slug": "armor-check-penalty",
+                "value": "min(1+@actor.wornArmor.checkPenalty,0)"
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            7
+                        ]
+                    }
+                ],
+                "selector": "acrobatics",
+                "slug": "armor-check-penalty",
+                "value": "min(2+@actor.wornArmor.checkPenalty,0)"
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            7
+                        ]
+                    }
+                ],
+                "selector": "athletics",
+                "slug": "armor-check-penalty",
+                "value": "min(2+@actor.wornArmor.checkPenalty,0)"
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            7
+                        ]
+                    },
+                    {
+                        "not": "self:armor:trait:noisy"
+                    }
+                ],
+                "selector": "stealth",
+                "slug": "armor-check-penalty",
+                "value": "min(2+@actor.wornArmor.checkPenalty,0)"
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            7
+                        ]
+                    },
+                    {
+                        "not": "self:armor:trait:noisy"
+                    }
+                ],
+                "selector": "thievery",
+                "slug": "armor-check-penalty",
+                "value": "min(2+@actor.wornArmor.checkPenalty,0)"
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            15
+                        ]
+                    }
+                ],
+                "selector": "acrobatics",
+                "slug": "armor-check-penalty",
+                "value": "min(3+@actor.wornArmor.checkPenalty,0)"
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            15
+                        ]
+                    }
+                ],
+                "selector": "athletics",
+                "slug": "armor-check-penalty",
+                "value": "min(3+@actor.wornArmor.checkPenalty,0)"
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            15
+                        ]
+                    },
+                    {
+                        "not": "self:armor:trait:noisy"
+                    }
+                ],
+                "selector": "stealth",
+                "slug": "armor-check-penalty",
+                "value": "min(3+@actor.wornArmor.checkPenalty,0)"
+            },
+            {
+                "key": "AdjustModifier",
+                "mode": "override",
+                "predicate": [
+                    {
+                        "gte": [
+                            "self:level",
+                            15
+                        ]
+                    },
+                    {
+                        "not": "self:armor:trait:noisy"
+                    }
+                ],
+                "selector": "thievery",
+                "slug": "armor-check-penalty",
+                "value": "min(3+@actor.wornArmor.checkPenalty,0)"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/KSF_Belastungsgew%C3%B6hnung.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-feat"
+            ]
+        }
+    },
+    "type": "feat"
+}

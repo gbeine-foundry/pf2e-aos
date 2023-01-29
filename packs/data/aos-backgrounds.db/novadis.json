@@ -1,0 +1,53 @@
+{
+    "_id": "Eheighoop9ya1Eij",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Novadis",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex",
+                    "cha"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": ""
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Express Rider"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Novadis.html"
+        },
+        "trainedLore": "Scouting Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "nat"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

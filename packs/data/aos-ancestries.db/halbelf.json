@@ -1,0 +1,103 @@
+{
+    "_id": "OhZei9ailaiquaej",
+    "img": "systems/pf2e/icons/features/ancestry/half-elf.webp",
+    "name": "Halbelf",
+    "system": {
+        "additionalLanguages": {
+            "count": 0,
+            "custom": "",
+            "value": []
+        },
+        "boosts": {
+            "0": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            },
+            "1": {
+                "value": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "2": {
+                "value": []
+            }
+        },
+        "description": {
+            "value": "<p><strong>Halbelfen</strong> sind Mischlinge aus einem <a class=\"mw-redirect\" title=\"Mensch\" href=\"https://de.wiki-aventurica.de/wiki/Mensch\">menschlichen</a> Vater und einer <a class=\"mw-redirect\" title=\"Elf\" href=\"https://de.wiki-aventurica.de/wiki/Elf\">elfischen</a> Mutter, was sich in ihrem Aussehen und ihrer langjährigen jugendlichen Erscheinung widerspiegelt. Sie sind meist magisch veranlagt.</p>\n<p>Halbelfen werden oftmals weder in der Sippe ihres elfischen Elternteils noch bei den Menschen richtig akzeptiert, weswegen sie häufig ein Außenseiterdasein führen.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Halbelfen\">Wiki Aventurica - Halbelfen</a></p>\n<hr />\n<p>Du entstammst einer elfischen oder menschlichen Kultur und kannst Abstammungstalente von Elfen oder Menschen wählen.</p>\n<p>Alle Halbelfen verfügen über @UUID[Compendium.pf2e.ancestryfeatures.Low-Light Vision]{Dämmersicht/Low-Light Vision}.</p>"
+        },
+        "flaws": {
+            "0": {
+                "value": []
+            }
+        },
+        "hp": 8,
+        "items": {},
+        "languages": {
+            "custom": "",
+            "value": [
+                "common"
+            ]
+        },
+        "reach": 5,
+        "rules": [
+            {
+                "adjustName": false,
+                "choices": [
+                    {
+                        "label": "Auelfen",
+                        "value": "Compendium.pf2e.aos-heritages.Auelfen (Halbelf)"
+                    },
+                    {
+                        "label": "Firnelfen",
+                        "value": "Compendium.pf2e.aos-heritages.Firnelfen (Halbelf)"
+                    },
+                    {
+                        "label": "Menschenkultur",
+                        "value": "Compendium.pf2e.aos-heritages.Halbelfen"
+                    },
+                    {
+                        "label": "Waldelfen",
+                        "value": "Compendium.pf2e.aos-heritages.Waldelfen (Halbelf)"
+                    }
+                ],
+                "flag": "herkunftAuswahl",
+                "key": "ChoiceSet",
+                "prompt": "PF2E-AoS.SpecificRule.Halbelfen.Herkunft.Prompt"
+            },
+            {
+                "allowDuplicate": false,
+                "key": "GrantItem",
+                "uuid": "{item|flags.pf2e.rulesSelections.herkunftAuswahl}"
+            }
+        ],
+        "size": "med",
+        "source": {
+            "value": ""
+        },
+        "speed": 25,
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-ancestry",
+                "elf",
+                "half-elf",
+                "humanoid",
+                "human"
+            ]
+        },
+        "vision": "lowLightVision"
+    },
+    "type": "ancestry"
+}

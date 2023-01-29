@@ -1,0 +1,43 @@
+{
+    "_id": "VisieVaev0aeYae0",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Koboldisch",
+    "system": {
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p><strong>Koboldisch</strong> ist die sehr schnelle Sprache der <a title=\"Kobold\" href=\"https://de.wiki-aventurica.de/wiki/Kobold\">Kobolde</a>. Sie kann wegen ihrer unglaublich schnellen Sprechweise nur mit Hilfe von <a title=\"Magie\" href=\"https://de.wiki-aventurica.de/wiki/Magie\">Magie</a> (z. B. <a class=\"mw-redirect\" title=\"Axxeleratus Blitzgeschwind\" href=\"https://de.wiki-aventurica.de/wiki/Axxeleratus_Blitzgeschwind\">Axxeleratus</a>) erlernt werden. Eine Ausnahme hierzu bilden die <a title=\"Schelm\" href=\"https://de.wiki-aventurica.de/wiki/Schelm\">Schelme</a>, da sie bei <a title=\"Kobold\" href=\"https://de.wiki-aventurica.de/wiki/Kobold\">Kobolden</a> aufgewachsen sind und die Sprache von klein auf gelernt haben.<br />Es existiert keine Schrift und auch keine Verwandtschaft zu anderen Sprachen.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Koboldisch\">Wiki Aventurica - Koboldisch</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Sprachen.html\">Sprachen</a></p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": 1
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "Koboldweltler heritage or trained in Arcana or Occultism"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Sprachen.html"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "general",
+                "skill",
+                "hb_aos-feat"
+            ]
+        }
+    },
+    "type": "feat"
+}

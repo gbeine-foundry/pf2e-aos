@@ -25,6 +25,11 @@
             {
                 "allowDuplicate": false,
                 "key": "GrantItem",
+                "predicate": [
+                    {
+                        "not": "self:trait:half-elf"
+                    }
+                ],
                 "uuid": "Compendium.pf2e.feats-srd.Elven Verve"
             },
             {
@@ -73,8 +78,8 @@
             "custom": "",
             "rarity": "common",
             "value": [
-                "elf",
-                "hb_aos-ancestry"
+                "hb_aos-ancestry",
+                "elf"
             ]
         }
     },

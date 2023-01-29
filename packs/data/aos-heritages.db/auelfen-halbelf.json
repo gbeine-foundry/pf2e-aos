@@ -1,19 +1,19 @@
 {
-    "_id": "xooqu6EeF8Baeyah",
+    "_id": "aelahVei6oophi0x",
     "img": "systems/pf2e/icons/default-icons/heritage.svg",
-    "name": "Waldelfen",
+    "name": "Auelfen (Halbelf)",
     "system": {
         "ancestry": {
-            "name": "Elf",
-            "uuid": "Compendium.pf2e.ancestries.PgKmsA2aKdbLU6O0"
+            "name": "Halbelf",
+            "uuid": "Compendium.pf2e.aos-ancestries.OhZei9ailaiquaej"
         },
         "description": {
-            "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.kia3UonaneeL6Dee]{Waldelfen} und musst diese als Hintergrund auswählen.</p>"
+            "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.ayohmaK4Eeh1koob]{Auelfen} und musst diese als Hintergrund auswählen.</p>"
         },
         "rules": [
             {
                 "key": "GrantItem",
-                "uuid": "Compendium.pf2e.aos-backgrounds.Waldelfen"
+                "uuid": "Compendium.pf2e.aos-backgrounds.Auelfen"
             },
             {
                 "key": "GrantItem",
@@ -21,13 +21,14 @@
             }
         ],
         "source": {
-            "value": "https://ulisses-regelwiki.de/Kul_Waldelfen.html"
+            "value": "https://ulisses-regelwiki.de/Kul_Auelfen.html"
         },
         "traits": {
             "custom": "",
             "rarity": "common",
             "value": [
                 "elf",
+                "half-elf",
                 "hb_aos-heritage"
             ]
         }

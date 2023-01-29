@@ -1,0 +1,53 @@
+{
+    "_id": "oYoomah0zail3Qui",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Aranier",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex",
+                    "cha"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human}</p>\n<hr />\n<p><strong>Aranier</strong> ist die <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> der <a title=\"Menschen\" href=\"https://de.wiki-aventurica.de/wiki/Menschen\">Menschen</a>, die aus der Vermischung der <a title=\"Ur-Tulamide\" href=\"https://de.wiki-aventurica.de/wiki/Ur-Tulamide\">Ur-Tulamiden</a> mit den <a title=\"Bosparaner\" href=\"https://de.wiki-aventurica.de/wiki/Bosparaner\">Bosparanern</a> im heutigen <a title=\"Mhaharanyat Aranien\" href=\"https://de.wiki-aventurica.de/wiki/Mhaharanyat_Aranien\">Mhaharanyat Aranien</a> hervorgegangen sind.</p>\n<p>Aranier sind weniger sehnig als ihre <a title=\"Tulamiden\" href=\"https://de.wiki-aventurica.de/wiki/Tulamiden\">tulamidischen</a> Nachbarn und haben helle Brauntöne der Haut. Die Haare sind meist schwarz oder dunkelbraun - auch rotblonde Haare kommen vor - , während die Augen neben diesen beiden Farben auch oft blau, grau oder grün sind.</p>\n<p>Verglichen mit den <a title=\"Tulamiden\" href=\"https://de.wiki-aventurica.de/wiki/Tulamiden\">Tulamiden</a> ist in der <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> der Aranier das ausgeprägte Matriarchat und der Einfluss des <a class=\"mw-redirect\" title=\"Mittelreich\" href=\"https://de.wiki-aventurica.de/wiki/Mittelreich\">Mittelreichs</a> in der Gesellschaftsordnung auffällig. Ebenso das Adoptions- und Erbwesen, bei dem den Schwiegertöchtern gegenüber eigenen Nachkommen oft die tragenden Rollen zukommen.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Aranier_(Kultur)\">Wiki Aventurica - Aranier</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Aranier.html\">Menschliche Kulturen - Aranier</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Geschicklichkeit</strong> oder <strong>Charisma</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Diplomatie und die Fertigkeit Kenntnis Regional (Aranien). Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Hobnobber]{Informationssammler/Hobnobber}.</p>\n<p>Du sprichst als Muttersprache Tulamidya oder Garethi.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Hobnobber"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Aranier.html"
+        },
+        "trainedLore": "Regional",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "dip"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

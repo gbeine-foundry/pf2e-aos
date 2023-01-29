@@ -1,0 +1,53 @@
+{
+    "_id": "aeBae4hing5AFeen",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Nordaventurier",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "str",
+                    "con"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human} or @UUID[Compendium.pf2e-aos.aos-ancestries.OhZei9ailaiquaej]{Halbelf}</p>\n<hr />\n<p>Mit <strong>Nordländer</strong> meint man im gebräuchlichsten Sinne die Bewohner der <a class=\"mw-redirect\" title=\"Nivesenland\" href=\"https://de.wiki-aventurica.de/wiki/Nivesenland\">Nivesenlande</a> (inkl. <a title=\"Herzogtum Paavi\" href=\"https://de.wiki-aventurica.de/wiki/Herzogtum_Paavi\">Herzogtum Paavi</a>) und des <a title=\"Hoher Norden\" href=\"https://de.wiki-aventurica.de/wiki/Hoher_Norden\">Hohen Nordes</a>, die zumindest zum Teil von <a title=\"Mittelländer\" href=\"https://de.wiki-aventurica.de/wiki/Mittell%C3%A4nder\">mittelländischen</a> oder <a title=\"Thorwaler (Kultur)\" href=\"https://de.wiki-aventurica.de/wiki/Thorwaler_(Kultur)\">thorwalschen</a> Vorfahren abstammen und sich nicht zu einem anderen Volk zuordnen lassen. Je nach Kontext (wie z.B. in der Kultur <a title=\"Svellttal und Nordlande\" href=\"https://de.wiki-aventurica.de/wiki/Svellttal_und_Nordlande\">Svellttal und Nordlande</a>) umfasst dieser Begriff aber auch die (menschlichen) Bewohner des <a title=\"Svelltland\" href=\"https://de.wiki-aventurica.de/wiki/Svelltland\">Svelltlandes</a>, des <a title=\"Orkland\" href=\"https://de.wiki-aventurica.de/wiki/Orkland\">Orklandes</a> um <a title=\"Phexcaer\" href=\"https://de.wiki-aventurica.de/wiki/Phexcaer\">Phexcaer</a>, der <a title=\"Elfenlande\" href=\"https://de.wiki-aventurica.de/wiki/Elfenlande\">Elfenlande</a>, dem <a title=\"Dominium Donnerbach\" href=\"https://de.wiki-aventurica.de/wiki/Dominium_Donnerbach\">Dominium Donnerbach</a>, der <a title=\"Ebene von Hardorp\" href=\"https://de.wiki-aventurica.de/wiki/Ebene_von_Hardorp\">Ebene von Hardorp</a>, <a title=\"Uhdenberg\" href=\"https://de.wiki-aventurica.de/wiki/Uhdenberg\">Uhdenberg</a> und der <a title=\"Grüne Ebene\" href=\"https://de.wiki-aventurica.de/wiki/Gr%C3%BCne_Ebene\">Grünen Ebene</a> mit <a title=\"Travingen\" href=\"https://de.wiki-aventurica.de/wiki/Travingen\">Travingen</a>.</p>\n<p>In einem deutlich weiter gefassten Sinne meint <strong>Nordländer</strong> alle (menschlichen) Bewohner nördlich des <a class=\"mw-redirect\" title=\"Mittelreich\" href=\"https://de.wiki-aventurica.de/wiki/Mittelreich\">Mittelreiches</a> inklusive <a title=\"Andergast\" href=\"https://de.wiki-aventurica.de/wiki/Andergast\">Andergaster</a>, <a title=\"Nostria\" href=\"https://de.wiki-aventurica.de/wiki/Nostria\">Nostrier</a>, <a title=\"Thorwaler (Kultur)\" href=\"https://de.wiki-aventurica.de/wiki/Thorwaler_(Kultur)\">Thorwaler</a>, <a title=\"Bornländer (Kultur)\" href=\"https://de.wiki-aventurica.de/wiki/Bornl%C3%A4nder_(Kultur)\">Bornländer</a>, <a class=\"mw-redirect\" title=\"Nivese\" href=\"https://de.wiki-aventurica.de/wiki/Nivese\">Nivesen</a>, <a class=\"mw-redirect\" title=\"Norbarde\" href=\"https://de.wiki-aventurica.de/wiki/Norbarde\">Norbarden</a> etc.. Deutlich seltener sind damit auch die <a title=\"Ork\" href=\"https://de.wiki-aventurica.de/wiki/Ork\">Ork</a>-, <a class=\"mw-redirect\" title=\"Zwerg\" href=\"https://de.wiki-aventurica.de/wiki/Zwerg\">Zwergen</a>- und <a title=\"Elfen\" href=\"https://de.wiki-aventurica.de/wiki/Elfen\">Elfenvölker</a> in dieser Region gemeint.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Nordaventurier\">Wiki Aventurica - Nordaventurier</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Nordaventurier.html\">Menschliche Kulturen - Nordaventurier</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Stärke</strong> oder <strong>Konstitution</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Überlebenskunst und die Fertigkeit Kenntnis Regional. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Terrain Expertise]{Geländekundiger/Terrain Expertise}.</p>\n<p>Du sprichst als Muttersprache Alaani, Garethi, Nujuka oder Thorwalsch.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Terrain Expertise"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Nordaventurier.html"
+        },
+        "trainedLore": "Regional",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "sur"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

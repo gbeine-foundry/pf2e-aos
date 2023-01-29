@@ -1,0 +1,53 @@
+{
+    "_id": "tah7Ithif9ohx4de",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Svelttaler",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex",
+                    "con"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human} or @UUID[Compendium.pf2e-aos.aos-ancestries.OhZei9ailaiquaej]{Halbelf}</p>\n<hr />\n<p><strong>Svellttaler</strong> sind die Bewohner des <a class=\"mw-redirect\" title=\"Svellttal\" href=\"https://de.wiki-aventurica.de/wiki/Svellttal\">Svellttals</a>.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Svellttaler\">Wiki Aventurica - Svellttaler</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Svellttaler.html\">Menschliche Kulturen - Svellttaler</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Geschicklichkeit</strong> oder <strong>Konstitution</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Überlebenskunst und die Fertigkeit Kenntnis Hunting Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Terrain Expertise]{Geländekundiger/Terrain Expertise}.</p>\n<p>Du sprichst als Muttersprache Garethi.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Terrain Expertise"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Svellttaler.html"
+        },
+        "trainedLore": "Hunting Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "sur"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

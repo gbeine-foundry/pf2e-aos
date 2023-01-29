@@ -1,0 +1,53 @@
+{
+    "_id": "saiL9pae3aeTh7bu",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Andergaster",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "str",
+                    "con"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human} or @UUID[Compendium.pf2e-aos.aos-ancestries.OhZei9ailaiquaej]{Halbelf}</p>\n<hr />\n<p><strong>Andergaster</strong> sind die Einwohner des <a title=\"Königreich Andergast\" href=\"https://de.wiki-aventurica.de/wiki/K%C3%B6nigreich_Andergast\">Königreichs Andergast</a>. Sie stammen von großteils verbannten <a title=\"Bosparaner\" href=\"https://de.wiki-aventurica.de/wiki/Bosparaner\">Bosparanern</a> ab, die das Gebiet ursprünglich besiedelten, und vermischten sich im Laufe der Zeit mit anderen Kulturen, etwa den <a title=\"Svellttaler\" href=\"https://de.wiki-aventurica.de/wiki/Svellttaler\">Svellttalern</a>.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Andergaster_(Kultur)\">Wiki Aventurica - Andergaster</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Andergaster.html\">Menschliche Kulturen - Andergaster</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Konstitution</strong> oder <strong>Stärke</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Überlebenskunst und die Fertigkeit Kenntnis. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Terrain Expertise]{Terrain Expertise}.</p>\n<p>Du sprichst als Muttersprache Garethi.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Terrain Expertise"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Andergaster.html"
+        },
+        "trainedLore": "Scouting Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "sur"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}

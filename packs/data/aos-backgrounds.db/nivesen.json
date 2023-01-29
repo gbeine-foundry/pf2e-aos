@@ -1,0 +1,53 @@
+{
+    "_id": "kudo3OojahBidoo3",
+    "img": "systems/pf2e/icons/default-icons/background.svg",
+    "name": "Nivesen",
+    "system": {
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex",
+                    "wis"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            }
+        },
+        "description": {
+            "value": "<p><strong>Prerequisite</strong> Ancestry - @UUID[Compendium.pf2e.ancestries.Human]{Human} or @UUID[Compendium.pf2e-aos.aos-ancestries.OhZei9ailaiquaej]{Halbelf}</p>\n<hr />\n<p>Die <strong>Nivesen</strong> sind die älteste <a title=\"Kultur\" href=\"https://de.wiki-aventurica.de/wiki/Kultur\">Kultur</a> der <a title=\"Menschen\" href=\"https://de.wiki-aventurica.de/wiki/Menschen\">Menschen</a> <a title=\"Aventurien\" href=\"https://de.wiki-aventurica.de/wiki/Aventurien\">Aventuriens</a>. Sie wurden im <a title=\"Sechstes Zeitalter\" href=\"https://de.wiki-aventurica.de/wiki/Sechstes_Zeitalter\">Sechsten Zeitalter</a> von <a title=\"Reißgram\" href=\"https://de.wiki-aventurica.de/wiki/Rei%C3%9Fgram\">Reißgram</a> als Gefährten der <a title=\"Wulfen (Spezies)\" href=\"https://de.wiki-aventurica.de/wiki/Wulfen_(Spezies)\">Wulfen</a> erschaffen.</p>\n<p>Nivesen gehören zu den Ureinwohnern <a title=\"Aventurien\" href=\"https://de.wiki-aventurica.de/wiki/Aventurien\">Aventuriens</a>, eventuell sogar zu den ältesten menschlichen Völkern, da <a title=\"Fee\" href=\"https://de.wiki-aventurica.de/wiki/Fee\">Feen</a> fast nur Rothaarige als Menschen anerkennen und von ihnen behaupten, sie seien fast von Anfang an da gewesen. Von den Nivesen selbst gibt es keine schriftlichen Überlieferungen.</p>\n<p>Nivesen sind hellhäutig, etwa so groß wie <a title=\"Mittelländer\" href=\"https://de.wiki-aventurica.de/wiki/Mittell%C3%A4nder\">Mittelländer</a>, meist schlank und haben leicht schräg gestellte Augen. Kupferrot ist die meistverbreitete Haarfarbe. Nivesen werden sehr alt, ein Umstand, den das Sprichwort <em>ein nivesisches Alter erreichen</em> verdeutlicht. Manche von ihnen sind <a title=\"Wolfskind\" href=\"https://de.wiki-aventurica.de/wiki/Wolfskind\">Wolfskinder</a>.</p>\n<p>Nivesen sind bekannt als hervorragende <a class=\"mw-redirect\" title=\"Jäger\" href=\"https://de.wiki-aventurica.de/wiki/J%C3%A4ger\">Jäger</a> und <a title=\"Hirte\" href=\"https://de.wiki-aventurica.de/wiki/Hirte\">Hirten</a>. Sie leben nomadisch in Stammes- und Sippenverbänden und halten sich <a title=\"Karen\" href=\"https://de.wiki-aventurica.de/wiki/Karen\">Karenherden</a>, mit denen sie durch die weiten Ebenen der nach ihnen benannten <a title=\"Nivesenlande\" href=\"https://de.wiki-aventurica.de/wiki/Nivesenlande\">Nivesenlande</a> ziehen. Die traditionelle Behausung ist die Jurte. Jeder Stamm wird von einem Oberhäuptling, dem <a title=\"Juttu\" href=\"https://de.wiki-aventurica.de/wiki/Juttu\">Juttu</a> und jede Sippe von einem Unterhäuptling, dem <a class=\"new\" title=\"Lahtis (Seite nicht vorhanden)\" href=\"https://de.wiki-aventurica.de/de/index.php?title=Lahtis&amp;action=edit&amp;redlink=1\">Lahtis</a> angeführt. In den Sippen, die bis zu 100 Personen und ein vielfaches an <a title=\"Karen\" href=\"https://de.wiki-aventurica.de/wiki/Karen\">Karenen</a> umfassen, sind der älteste erfahrene Mann und die älteste Frau Entscheidungsträger mit unterschiedlichen Aufgabenbereichen. Bei besonders wichtigen Entscheidungen und wenn es um die Verhandlungen mit <a title=\"Wolf\" href=\"https://de.wiki-aventurica.de/wiki/Wolf\">Wölfen</a> geht, holen sich beide Rat vom <a class=\"mw-redirect\" title=\"Kaskjua\" href=\"https://de.wiki-aventurica.de/wiki/Kaskjua\">Kaskjua</a> (Schamanen).<br />Nivesen betrachten <a title=\"Wolf\" href=\"https://de.wiki-aventurica.de/wiki/Wolf\">Wölfe</a> als Brüder und ahnden Frevel gegen sie mit unnachgiebiger Härte. Andere Pelztiere werden bisweilen gejagt und deren <a title=\"Pelz\" href=\"https://de.wiki-aventurica.de/wiki/Pelz\">Pelze</a> z.B. mit durchziehenden <a class=\"mw-redirect\" title=\"Norbarde\" href=\"https://de.wiki-aventurica.de/wiki/Norbarde\">Norbardensippen</a> gegen andere Waren getauscht.</p>\n<p>Im <a title=\"Bornland (Bund)\" href=\"https://de.wiki-aventurica.de/wiki/Bornland_(Bund)\">Bornland</a> wird ihre rechtliche Stellung durch das <a title=\"Festumer Edikt\" href=\"https://de.wiki-aventurica.de/wiki/Festumer_Edikt\">Festumer Edikt</a> geregelt.</p>\n<p>Quelle: <a href=\"https://de.wiki-aventurica.de/wiki/Nivesen\">Wiki Aventurica - Nivesen</a></p>\n<p>Ulisses Regelwiki: <a href=\"https://ulisses-regelwiki.de/Kul_Nivesen.html\">Menschliche Kulturen - Nivesen</a></p>\n<hr />\n<p>Wähle zwei Attributsverbesserungen. Eine muss für <strong>Geschicklichkeit</strong> oder <strong>Weisheit</strong> genutzt werden, dazu kommt noch eine Freie Attributsverbesserung.</p>\n<p>Du erhältst den Kompetenzgrad Geübt in der Fertigkeit Naturkunde und die Fertigkeit Kenntnis Hunting Lore. Du erlangst das Fertigkeitstalent @UUID[Compendium.pf2e.feats-srd.Tame Animal]{Tame Animal}.</p>\n<p>Du sprichst als Muttersprache Nujuka.</p>"
+        },
+        "items": {},
+        "rules": [
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.feats-srd.Tame Animal"
+            }
+        ],
+        "source": {
+            "value": "https://ulisses-regelwiki.de/Kul_Nivesen.html"
+        },
+        "trainedLore": "Hunting Lore",
+        "trainedSkills": {
+            "custom": "",
+            "value": [
+                "nat"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "hb_aos-background"
+            ]
+        }
+    },
+    "type": "background"
+}
