@@ -148,42 +148,6 @@
       "flags": {}
     },
     {
-      "name": "aos-classes",
-      "label": "Aventurien on Steroids - Klassen",
-      "path": "packs/aos-classes.db",
-      "system": "pf2e",
-      "private": false,
-      "type": "Item",
-      "flags": {}
-    },
-    {
-      "name": "aos-classfeatures",
-      "label": "Aventurien on Steroids - Klassenmerkmale",
-      "path": "packs/aos-classfeatures.db",
-      "system": "pf2e",
-      "private": false,
-      "type": "Item",
-      "flags": {}
-    },
-    {
-      "name": "aos-deities",
-      "label": "Aventurien on Steroids - Götter",
-      "path": "packs/aos-deities.db",
-      "system": "pf2e",
-      "private": false,
-      "type": "Item",
-      "flags": {}
-    },
-    {
-      "name": "aos-equipment",
-      "label": "Aventurien on Steroids - Ausrüstung",
-      "path": "packs/aos-equipment.db",
-      "system": "pf2e",
-      "private": false,
-      "type": "Item",
-      "flags": {}
-    },
-    {
       "name": "aos-feats",
       "label": "Aventurien on Steroids - Talente",
       "path": "packs/aos-feats.db",
