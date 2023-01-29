@@ -16,6 +16,16 @@
           "Prompt": "Elven culture"
         }
       },
+      "Halbelfen": {
+        "Kultur": {
+          "Prompt": "Select culture"
+        }
+      },
+      "Menschen": {
+        "Kultur": {
+          "Prompt": "Select culture"
+        }
+      },
       "Zwerge": {
         "Kultur": {
           "Prompt": "Dwarven culture"

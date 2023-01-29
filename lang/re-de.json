@@ -16,6 +16,22 @@
           "Prompt": "Elfische Kultur"
         }
       },
+      "Halbelfen": {
+        "Herkunft": {
+          "Prompt": "Herkunft auswählen"
+        },
+        "Kultur": {
+          "Prompt": "Kultur auswählen"
+        }
+      },
+      "Menschen": {
+        "Herkunft": {
+          "Prompt": "Herkunft auswählen"
+        },
+        "Kultur": {
+          "Prompt": "Kultur auswählen"
+        }
+      },
       "Zwerge": {
         "Kultur": {
           "Prompt": "Zwergische Kultur"
