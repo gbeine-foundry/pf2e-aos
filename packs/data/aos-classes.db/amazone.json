@@ -1,0 +1,123 @@
+{
+    "_id": "reey9phaagh1baaV",
+    "img": "systems/pf2e/icons/classes/fighter.webp",
+    "name": "Amazone",
+    "system": {
+        "ancestryFeatLevels": {
+            "value": [
+                1,
+                5,
+                9,
+                13,
+                17
+            ]
+        },
+        "attacks": {
+            "advanced": 0,
+            "martial": 1,
+            "other": {
+                "name": "Amazonensäbel und Kurzbogen",
+                "rank": 2
+            },
+            "simple": 1,
+            "unarmed": 2
+        },
+        "classDC": 1,
+        "classFeatLevels": {
+            "value": [
+                1,
+                2,
+                4,
+                6,
+                8,
+                10,
+                12,
+                14,
+                16,
+                18,
+                20
+            ]
+        },
+        "defenses": {
+            "heavy": 0,
+            "light": 1,
+            "medium": 1,
+            "unarmored": 1
+        },
+        "description": {
+            "value": ""
+        },
+        "generalFeatLevels": {
+            "value": [
+                3,
+                7,
+                11,
+                15,
+                19
+            ]
+        },
+        "hp": 10,
+        "items": {
+        },
+        "keyAbility": {
+            "value": [
+                "dex",
+                "str"
+            ]
+        },
+        "perception": 2,
+        "rules": [],
+        "savingThrows": {
+            "fortitude": 2,
+            "reflex": 2,
+            "will": 1
+        },
+        "skillFeatLevels": {
+            "value": [
+                2,
+                4,
+                6,
+                8,
+                10,
+                12,
+                14,
+                16,
+                18,
+                20
+            ]
+        },
+        "skillIncreaseLevels": {
+            "value": [
+                3,
+                5,
+                7,
+                9,
+                11,
+                13,
+                15,
+                17,
+                19
+            ]
+        },
+        "source": {
+            "value": "https://aventurien-pf2e.de/"
+        },
+        "trainedSkills": {
+            "additional": 2,
+            "value": [
+                "ath",
+                "acr",
+                "itm"
+            ]
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "uncommon",
+            "value": [
+                "hb_aos-class",
+                "hb_aos-amazone"
+            ]
+        }
+    },
+    "type": "class"
+}

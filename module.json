@@ -80,7 +80,11 @@
           "aos-background": "Aventurischer Hintergrund",
           "aos-koboldweltler": "Koboldweltler",
           "aos-amazone": "Amazone",
-          "aos-schwertgesellen": "Schwertgesellen"
+          "aos-krieger": "Krieger",
+          "aos-schwertgesellen": "Schwertgesellen",
+          "aos-söldner": "Söldner",
+          "aos-schelmin": "Schelmin",
+          "aos-scharlatan": "Scharlatan"
         },
         "spellTraits": {
           "aventurien": "Aventurien"
