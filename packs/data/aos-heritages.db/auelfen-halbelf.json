@@ -27,9 +27,10 @@
             "custom": "",
             "rarity": "common",
             "value": [
+                "hb_aos-heritage",
+                "hb_aos-auelfen",
                 "elf",
-                "half-elf",
-                "hb_aos-heritage"
+                "half-elf"
             ]
         }
     },

@@ -24,8 +24,9 @@
             "custom": "",
             "rarity": "common",
             "value": [
-                "dwarf",
-                "hb_aos-heritage"
+                "hb_aos-heritage",
+                "hb_aos-hügelzwerge",
+                "dwarf"
             ]
         }
     },
