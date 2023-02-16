@@ -111,12 +111,13 @@ export class CompendiumPack {
                         throw PackError(msg);
                     }
 
+                    const isCoreIconPath = /^icons\//.test(imgPath);
                     const repoImgPath = path.resolve(
                         process.cwd(),
                         "static",
                         decodeURIComponent(imgPath).replace("systems/pf2e/", "").replace("modules/pf2e-aos/", "")
                     );
-                    if (!imgPath.match(/^\/?icons\/svg/) && !fs.existsSync(repoImgPath) && !fs.existsSync(repoImgPath.replace("pf2e-aos","pf2e"))) {
+                    if (!isCoreIconPath && !fs.existsSync(repoImgPath) && !fs.existsSync(repoImgPath.replace("pf2e-aos","pf2e"))) {
                         throw PackError(`${documentName} (${this.packId}) has a broken image link: ${imgPath} ${repoImgPath}`);
                     }
                     if (!(imgPath === "" || imgPath.match(/\.(?:svg|webp)$/))) {
