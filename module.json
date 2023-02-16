@@ -74,12 +74,11 @@
           "aos-zyklopäer": "Zyklopäer"
         },
         "featTraits": {
-          "aventurien": "Aventurien",
+          "aos-feat": "Aventurien",
           "aos-ancestry": "Aventurische Abstammung",
           "aos-heritage": "Aventurische Herkunft",
           "aos-background": "Aventurischer Hintergrund",
           "aos-koboldweltler": "Koboldweltler",
-          "aos-feat": "Talent (AoS)",
           "aos-amazone": "Amazone",
           "aos-schwertgesellen": "Schwertgesellen"
         },
