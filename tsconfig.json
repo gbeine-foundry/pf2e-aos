@@ -1,0 +1,52 @@
+{
+    "compilerOptions": {
+        "target": "es2018",
+        "module": "commonjs",
+        "lib": ["esnext", "dom", "dom.iterable"],
+        "noEmit": true,
+        "strict": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitOverride": true,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "forceConsistentCasingInFileNames": true,
+        "esModuleInterop": true,
+        "sourceMap": true,
+        "baseUrl": ".",
+        "allowUnusedLabels": false,
+        "removeComments": false,
+        "resolveJsonModule": true,
+        "paths": {
+            "@actor": ["../pf2e/src/module/actor"],
+            "@actor/*": ["../pf2e/src/module/actor/*"],
+            "@item": ["../pf2e/src/module/item"],
+            "@item/*": ["../pf2e/src/module/item/*"],
+            "@system/*": ["../pf2e/src/module/system/*"],
+            "@module/*": ["../pf2e/src/module/*"],
+            "@scripts/*": ["../pf2e/src/scripts/*"],
+            "@util": ["../pf2e/src/util"],
+            "@util/*": ["../pf2e/src/util/*"],
+            "static/lang/en.json": [ "../pf2e/static/lang/en.json" ],
+            "static/lang/re-en.json": [ "../pf2e/static/lang/re-en.json" ]
+        },
+        "types": [
+            "jquery",
+            "node"
+        ],
+        "typeRoots": [
+            "node_modules/@types",
+            "pf2e/types/foundry"
+        ],
+    },
+    "include": [
+        "../pf2e/src/global.d.ts",
+        "../pf2e/types/foundry/**/*"
+    ],
+    "watchOptions": {
+        "excludeDirectories": ["packs/data/", "static/packs/"],
+    },
+    "ts-node": {
+        "files": true
+    }
+}
