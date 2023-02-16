@@ -1,7 +1,7 @@
 {
     "_id": "iel7wai2Oow6xoht",
     "img": "systems/pf2e/icons/default-icons/heritage.svg",
-    "name": "Halbelfen",
+    "name": "Menschen (Halbelf)",
     "system": {
         "ancestry": {
             "name": "Halbelf",
@@ -36,7 +36,7 @@
                         "value": "Compendium.pf2e.aos-backgrounds.Nostrier"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Svelttaler"
+                        "value": "Compendium.pf2e.aos-backgrounds.Svellttaler"
                     },
                     {
                         "value": "Compendium.pf2e.aos-backgrounds.Thorwaler"
