@@ -15,19 +15,19 @@
                 "adjustName": false,
                 "choices": [
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Aranier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Aranier"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Maraskaner"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Maraskaner"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Mhanadistani"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Mhanadistani"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Novadis"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Novadis"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Südaventurier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Südaventurier"
                     }
                 ],
                 "flag": "kulturAuswahl",

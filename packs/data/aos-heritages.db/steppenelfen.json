@@ -13,11 +13,11 @@
         "rules": [
             {
                 "key": "GrantItem",
-                "uuid": "Compendium.pf2e.aos-backgrounds.Steppenelfen"
+                "uuid": "Compendium.pf2e-aos.aos-backgrounds.Steppenelfen"
             },
             {
                 "key": "GrantItem",
-                "uuid": "Compendium.pf2e.aos-ancestryfeatures.Elfische Abstammung"
+                "uuid": "Compendium.pf2e-aos.aos-ancestryfeatures.Elfische Abstammung"
             }
         ],
         "source": {

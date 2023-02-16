@@ -20,13 +20,13 @@
                 "adjustName": false,
                 "choices": [
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Fjarninger"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Fjarninger"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Nordaventurier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Nordaventurier"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Thorwaler"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Thorwaler"
                     }
                 ],
                 "flag": "kulturAuswahl",

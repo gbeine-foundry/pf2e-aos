@@ -15,13 +15,13 @@
                 "adjustName": false,
                 "choices": [
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Bornländer"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Bornländer"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Norbarden"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Norbarden"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Nordaventurier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Nordaventurier"
                     }
                 ],
                 "flag": "kulturAuswahl",

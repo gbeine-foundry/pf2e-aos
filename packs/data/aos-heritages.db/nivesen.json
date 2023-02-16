@@ -20,16 +20,16 @@
                 "adjustName": false,
                 "choices": [
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Bornländer"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Bornländer"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Nivesen"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Nivesen"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Nordaventurier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Nordaventurier"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Svellttaler"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Svellttaler"
                     }
                 ],
                 "flag": "kulturAuswahl",
