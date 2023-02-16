@@ -67,16 +67,16 @@
                 "adjustName": false,
                 "choices": [
                     {
-                        "value": "Compendium.pf2e.aos-heritages.Ambosszwerge"
+                        "value": "Compendium.pf2e-aos.aos-heritages.Ambosszwerge"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-heritages.Brillantzwerge"
+                        "value": "Compendium.pf2e-aos.aos-heritages.Brillantzwerge"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-heritages.Erzzwerge"
+                        "value": "Compendium.pf2e-aos.aos-heritages.Erzzwerge"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-heritages.Hügelzwerge"
+                        "value": "Compendium.pf2e-aos.aos-heritages.Hügelzwerge"
                     }
                 ],
                 "flag": "zwergischeKultur",
@@ -90,7 +90,7 @@
             },
             {
                 "key": "GrantItem",
-                "uuid": "Compendium.pf2e.aos-ancestryfeatures.Zwergische Abstammung"
+                "uuid": "Compendium.pf2e-aos.aos-ancestryfeatures.Zwergische Abstammung"
             }
         ],
         "size": "med",

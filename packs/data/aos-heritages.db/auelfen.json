@@ -13,11 +13,11 @@
         "rules": [
             {
                 "key": "GrantItem",
-                "uuid": "Compendium.pf2e.aos-backgrounds.Auelfen"
+                "uuid": "Compendium.pf2e-aos.aos-backgrounds.Auelfen"
             },
             {
                 "key": "GrantItem",
-                "uuid": "Compendium.pf2e.aos-ancestryfeatures.Elfische Abstammung"
+                "uuid": "Compendium.pf2e-aos.aos-ancestryfeatures.Elfische Abstammung"
             }
         ],
         "source": {

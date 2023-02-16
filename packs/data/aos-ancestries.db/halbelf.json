@@ -56,19 +56,19 @@
                 "choices": [
                     {
                         "label": "Auelfen",
-                        "value": "Compendium.pf2e.aos-heritages.Auelfen (Halbelf)"
+                        "value": "Compendium.pf2e-aos.aos-heritages.Auelfen (Halbelf)"
                     },
                     {
                         "label": "Firnelfen",
-                        "value": "Compendium.pf2e.aos-heritages.Firnelfen (Halbelf)"
+                        "value": "Compendium.pf2e-aos.aos-heritages.Firnelfen (Halbelf)"
                     },
                     {
                         "label": "Menschenkultur",
-                        "value": "Compendium.pf2e.aos-heritages.Menschen (Halbelf)"
+                        "value": "Compendium.pf2e-aos.aos-heritages.Menschen (Halbelf)"
                     },
                     {
                         "label": "Waldelfen",
-                        "value": "Compendium.pf2e.aos-heritages.Waldelfen (Halbelf)"
+                        "value": "Compendium.pf2e-aos.aos-heritages.Waldelfen (Halbelf)"
                     }
                 ],
                 "flag": "herkunftAuswahl",

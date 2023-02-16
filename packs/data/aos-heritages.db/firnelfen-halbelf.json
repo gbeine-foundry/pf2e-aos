@@ -5,7 +5,7 @@
     "system": {
         "ancestry": {
             "name": "Halbelf",
-            "uuid": "Compendium.pf2e.aos-ancestries.OhZei9ailaiquaej"
+            "uuid": "Compendium.pf2e-aos.aos-ancestries.OhZei9ailaiquaej"
         },
         "description": {
             "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.yesh0ieth7quie3I]{Firnelfen} und musst diese als Hintergrund auswählen.</p>"
@@ -13,11 +13,11 @@
         "rules": [
             {
                 "key": "GrantItem",
-                "uuid": "Compendium.pf2e.aos-backgrounds.Firnelfen"
+                "uuid": "Compendium.pf2e-aos.aos-backgrounds.Firnelfen"
             },
             {
                 "key": "GrantItem",
-                "uuid": "Compendium.pf2e.aos-ancestryfeatures.Elfische Abstammung"
+                "uuid": "Compendium.pf2e-aos.aos-ancestryfeatures.Elfische Abstammung"
             }
         ],
         "source": {

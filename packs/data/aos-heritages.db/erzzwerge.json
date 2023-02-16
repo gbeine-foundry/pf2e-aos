@@ -5,7 +5,7 @@
     "system": {
         "ancestry": {
             "name": "Zwerg/Dwarf",
-            "uuid": "Compendium.pf2e.aos-ancestries.ox3saiTee6beeLua"
+            "uuid": "Compendium.pf2e-aos.aos-ancestries.ox3saiTee6beeLua"
         },
         "description": {
             "value": "<p>Du entstammst der Kultur der @UUID[Compendium.pf2e-aos.aos-backgrounds.ijungai0ge0taiJo]{Erzzwerge} und musst diese als Hintergrund auswählen.</p>"
@@ -14,7 +14,7 @@
             {
                 "allowDuplicate": false,
                 "key": "GrantItem",
-                "uuid": "Compendium.pf2e.aos-backgrounds.Erzzwerge"
+                "uuid": "Compendium.pf2e-aos.aos-backgrounds.Erzzwerge"
             }
         ],
         "source": {

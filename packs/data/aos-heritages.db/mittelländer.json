@@ -15,34 +15,34 @@
                 "adjustName": false,
                 "choices": [
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Andergaster"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Andergaster"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Bornländer"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Bornländer"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Horasier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Horasier"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Maraskaner"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Maraskaner"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Mittelreicher"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Mittelreicher"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Nordaventurier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Nordaventurier"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Nostrier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Nostrier"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Südaventurier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Südaventurier"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Svellttaler"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Svellttaler"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Zyklopäer"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Zyklopäer"
                     }
                 ],
                 "flag": "kulturAuswahl",

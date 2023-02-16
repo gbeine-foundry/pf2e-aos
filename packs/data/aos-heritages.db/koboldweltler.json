@@ -14,11 +14,11 @@
             {
                 "allowDuplicate": false,
                 "key": "GrantItem",
-                "uuid": "Compendium.pf2e.aos-backgrounds.Koboldweltler"
+                "uuid": "Compendium.pf2e-aos.aos-backgrounds.Koboldweltler"
             },
             {
                 "key": "GrantItem",
-                "uuid": "Compendium.pf2e.aos-ancestryfeatures.Koboldweltler"
+                "uuid": "Compendium.pf2e-aos.aos-ancestryfeatures.Koboldweltler"
             }
         ],
         "source": {

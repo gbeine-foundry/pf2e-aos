@@ -5,7 +5,7 @@
     "system": {
         "ancestry": {
             "name": "Halbelf",
-            "uuid": "Compendium.pf2e.aos-ancestries.OhZei9ailaiquaej"
+            "uuid": "Compendium.pf2e-aos.aos-ancestries.OhZei9ailaiquaej"
         },
         "description": {
             "value": "<p>Du bist als Halbelf unter Menschen aufgewachsen und kannst aus diesen Kulturen auswählen:</p>\n<ul>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.saiL9pae3aeTh7bu]{Andergaster}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.WhmcCeqtXvCmne87]{Bornländer}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.Gex0AinguCe3ahyo]{Horasier}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.booje1ahLoav4fa1]{Mittelreicher}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.kudo3OojahBidoo3]{Nivesen}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.aeBae4hing5AFeen]{Nordaventurier}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.YeeZeepolei4Vahc]{Nostrier}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.tah7Ithif9ohx4de]{Svelttaler}</li>\n<li>@UUID[Compendium.pf2e-aos.aos-backgrounds.Eipahngi5shiefex]{Thorwaler}</li>\n</ul>"
@@ -15,31 +15,31 @@
                 "adjustName": false,
                 "choices": [
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Andergaster"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Andergaster"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Bornländer"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Bornländer"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Horasier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Horasier"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Mittelreicher"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Mittelreicher"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Nivesen"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Nivesen"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Nordaventurier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Nordaventurier"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Nostrier"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Nostrier"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Svellttaler"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Svellttaler"
                     },
                     {
-                        "value": "Compendium.pf2e.aos-backgrounds.Thorwaler"
+                        "value": "Compendium.pf2e-aos.aos-backgrounds.Thorwaler"
                     }
                 ],
                 "flag": "kulturAuswahl",
